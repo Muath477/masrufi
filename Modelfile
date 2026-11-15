@@ -1,0 +1,22 @@
+# ضع ملف GGUF اللي نزلته من كولاب في نفس المجلد، وعدّل الاسم تحت لو اختلف
+FROM ./masrufi.Q4_K_M.gguf
+
+# نفس قالب المحادثة اللي تدرّب عليه النموذج (ChatML مع خانة تفكير فاضية)
+TEMPLATE """{{- range .Messages }}<|im_start|>{{ .Role }}
+{{ .Content }}<|im_end|>
+{{ end }}<|im_start|>assistant
+<think>
+
+</think>
+
+"""
+
+SYSTEM """أنت تسجّل المصاريف. حوّل رسالة المستخدم إلى JSON فقط بهذا الشكل:
+{"expenses": [{"item": "...", "amount": رقم, "category": "...", "when": "اليوم|أمس|قبل أمس"}]}
+التصنيفات المسموحة: مطاعم، قهوة، بقالة، مواصلات، فواتير، تسوق، صحة، ترفيه، أخرى.
+إذا لم يذكر الوقت فهو اليوم. إذا الرسالة ليست مصروفاً دُفع فعلاً (سؤال، خطة، دخل، تحية) أعد {"expenses": []}."""
+
+PARAMETER stop "<|im_end|>"
+PARAMETER stop "<|im_start|>"
+PARAMETER temperature 0
+PARAMETER num_ctx 2048

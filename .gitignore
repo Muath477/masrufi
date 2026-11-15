@@ -1,0 +1,3 @@
+expenses.csv
+*.gguf
+__pycache__/

@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#1B1D21">
+<title>مصروفي · الدليل العملي لتدريب نموذجك</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root { --bg: #1B1D21; --card: #23262B; --card2: #2B2F35; --line: #393E45; --ink: #E8EAED; --soft: #A3A9B0;
+  --amber: #F9AB00; --green: #5BB974; --blue: #8AB4F8; --red: #F28B82; --on: #16181C;
+  --fb: 'IBM Plex Sans Arabic', system-ui, sans-serif; --fm: 'IBM Plex Mono', ui-monospace, monospace; color-scheme: dark; }
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 400 17px/1.85 var(--fb); }
+a { color: var(--blue); }
+:focus-visible { outline: 3px solid var(--amber); outline-offset: 3px; border-radius: 6px; }
+.wrap { max-width: 860px; margin: 0 auto; padding: 28px 18px 80px; }
+header { padding: 26px 0 10px; }
+.series { margin: 0; color: var(--amber); font-weight: 500; font-size: 15px; }
+h1 { margin: 6px 0 10px; font-size: clamp(34px, 7vw, 54px); line-height: 1.3; }
+.lede { margin: 0; color: var(--soft); font-size: 19px; }
+.example { margin: 22px 0 0; border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+.example p { margin: 0; padding: 14px 18px; background: var(--card); }
+.example pre { margin: 0; padding: 14px 18px; border-inline-start: 4px solid var(--green); background: #17191C; font: 400 13.5px/1.7 var(--fm); white-space: pre-wrap; direction: ltr; text-align: left; }
+.actions { display: flex; flex-wrap: wrap; gap: 10px; margin: 24px 0 0; }
+.btn { display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; border-radius: 10px; background: var(--amber); color: var(--on); font-weight: 700; text-decoration: none; min-height: 44px; }
+.btn.ghost { background: var(--card); color: var(--ink); border: 1px solid var(--line); }
+@media (hover: hover) and (pointer: fine) { .btn { transition: transform .15s ease-out; } .btn:hover { transform: translateY(-1px); } }
+.btn:active { transform: scale(.97); }
+nav.toc { margin: 34px 0 0; padding: 16px 18px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; }
+nav.toc ol { margin: 0; padding-inline-start: 22px; columns: 2; column-gap: 28px; }
+nav.toc li { break-inside: avoid; }
+@media (max-width: 560px) { nav.toc ol { columns: 1; } }
+section { margin-top: 44px; scroll-margin-top: 16px; }
+h2 { margin: 0 0 12px; font-size: 26px; line-height: 1.4; display: flex; align-items: baseline; gap: 12px; }
+h2 .cnt { font: 500 15px var(--fm); color: var(--soft); direction: ltr; flex: none; }
+h3 { margin: 22px 0 8px; font-size: 19px; }
+p { margin: 0 0 12px; }
+.cell { position: relative; margin: 12px 0; border: 1px solid var(--line); border-radius: 10px; background: var(--card); }
+.cell pre { margin: 0; padding: 14px 16px; padding-inline-end: 16px; font: 400 14.5px/1.75 var(--fm); white-space: pre-wrap; word-break: break-word; direction: ltr; text-align: left; }
+.copy { position: absolute; top: 8px; right: 8px; min-height: 34px; padding: 4px 12px; border-radius: 8px; border: 1px solid var(--line); background: var(--card2); color: var(--ink); font: 500 13px var(--fb); cursor: pointer; }
+.cell pre { padding-right: 84px; }
+code { font: 400 .92em var(--fm); background: var(--card2); padding: 1px 7px; border-radius: 6px; color: var(--blue); }
+.note { padding: 14px 16px; border-radius: 10px; background: color-mix(in srgb, var(--amber) 10%, var(--card)); border: 1px solid color-mix(in srgb, var(--amber) 45%, var(--line)); }
+.note.warn { background: color-mix(in srgb, var(--red) 10%, var(--card)); border-color: color-mix(in srgb, var(--red) 45%, var(--line)); }
+.note b { color: var(--amber); } .note.warn b { color: var(--red); }
+.steps { list-style: none; margin: 0; padding: 0; counter-reset: s; }
+.steps > li { counter-increment: s; position: relative; padding: 4px 0 16px; padding-inline-start: 50px; }
+.steps > li::before { content: counter(s); position: absolute; inset-inline-start: 0; top: 4px; width: 34px; height: 34px; border-radius: 8px; background: var(--card2); border: 1px solid var(--line); display: grid; place-items: center; font: 500 15px var(--fm); color: var(--amber); }
+.time { display: inline-block; margin-inline-start: 6px; padding: 0 9px; border-radius: 999px; background: var(--card2); color: var(--soft); font-size: 13px; }
+.tbl { overflow-x: auto; border: 1px solid var(--line); border-radius: 10px; }
+table { width: 100%; border-collapse: collapse; min-width: 520px; }
+th, td { padding: 11px 14px; text-align: start; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { background: var(--card2); font-size: 15px; color: var(--soft); font-weight: 500; }
+tr:last-child td { border-bottom: 0; }
+td code { white-space: nowrap; }
+.ltr { direction: ltr; unicode-bidi: isolate; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+.card { padding: 16px 18px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; }
+.card h3 { margin: 0 0 6px; }
+.card p { margin: 0; color: var(--soft); }
+footer { margin-top: 56px; padding-top: 18px; border-top: 1px solid var(--line); color: var(--soft); font-size: 15px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <p class="series">من الفكرة إلى التنفيذ · الجلسة الثانية · أكاديمية طويق</p>
+  <h1>مصروفي: درّب نموذجك بنفسك</h1>
+  <p class="lede">تدرّب نموذج Qwen3 صغير في Google Colab على إنه يفهم مصاريفك بكلامك، وبعدين تشغّله على جهازك بدون إنترنت مع وكيل يسجّلها.</p>
+  <div class="example">
+    <p>«تغديت ب٤٠ أمس وعبيت بنزين ب٨٠»</p>
+    <pre>{"expenses": [{"item": "غدا", "amount": 40, "category": "مطاعم", "when": "أمس"},
+              {"item": "بنزين", "amount": 80, "category": "مواصلات", "when": "اليوم"}]}</pre>
+  </div>
+  <div class="actions">
+    <a class="btn" href="https://colab.research.google.com/github/Muath477/masrufi/blob/main/masrufi_colab.ipynb" target="_blank" rel="noopener">افتح الدفتر في كولاب</a>
+    <a class="btn ghost" href="https://github.com/Muath477/masrufi/archive/refs/heads/main.zip" rel="noopener">نزّل المشروع (zip)</a>
+    <a class="btn ghost" href="https://github.com/Muath477/masrufi" target="_blank" rel="noopener">الكود على GitHub</a>
+  </div>
+</header>
+
+<nav class="toc" aria-label="المحتويات"><ol>
+  <li><a href="#need">وش تحتاج</a></li>
+  <li><a href="#colab">التدريب في كولاب</a></li>
+  <li><a href="#examples">أضف أمثلتك</a></li>
+  <li><a href="#local">التشغيل على جهازك</a></li>
+  <li><a href="#agent">استخدام الوكيل</a></li>
+  <li><a href="#trouble">لو صار خطأ</a></li>
+  <li><a href="#challenge">تحديات</a></li>
+  <li><a href="#safety">قبل ما تدرّب على بياناتك</a></li>
+</ol></nav>
+
+<section id="need">
+  <h2>وش تحتاج <span class="cnt">[1]</span></h2>
+  <ul>
+    <li>حساب Google، عشان كولاب و Google Drive.</li>
+    <li>لابتوب فيه Python 3.10 أو أحدث، وما يحتاج أي مكتبة إضافية.</li>
+    <li><a href="https://ollama.com/download" target="_blank" rel="noopener">Ollama</a> مثبّت، ونزّل النموذج الأصلي للمقارنة:</li>
+  </ul>
+  <div class="cell"><pre>ollama pull qwen3:1.7b</pre><button class="copy" type="button">انسخ</button></div>
+  <p class="note"><b>ما عندك لابتوب؟</b> تقدر تسوي التدريب كله من الجوال في كولاب وتشوف الفرق بالأرقام، والتشغيل المحلي تسويه بعدين في البيت.</p>
+</section>
+
+<section id="colab">
+  <h2>التدريب في كولاب <span class="cnt">[2]</span></h2>
+  <ol class="steps">
+    <li><b>افتح الدفتر</b> من الزر فوق، وسجّل دخول بحساب Google.</li>
+    <li><b>اختر كرت الشاشة:</b> من القائمة <span class="ltr">Runtime → Change runtime type</span> اختر <b class="ltr">T4 GPU</b> واضغط Save.</li>
+    <li><b>ثبّت الأدوات:</b> شغّل أول خليتين بزر ▶ أو <span class="ltr">Shift + Enter</span>. <span class="time">٣ إلى ٤ دقائق</span></li>
+    <li><b>جهّز البيانات:</b> الخلية تولّد ٧٠٠ رسالة تدريب و١١٦ رسالة اختبار. <span class="time">ثواني</span></li>
+    <li><b>حمّل النموذج</b> وأضف عليه طبقات LoRA. <span class="time">دقيقة إلى دقيقتين</span></li>
+    <li><b>اختبر قبل التدريب:</b> اكتب توقعك قبل ما تشغّل، وسجّل الرقمين. <span class="time">دقيقتين</span></li>
+    <li><b>درّب:</b> راقب رقم <span class="ltr">loss</span> وهو ينزل. <span class="time">٤ دقائق تقريباً</span></li>
+    <li><b>اختبر بعد التدريب</b> على نفس الرسائل وقارن، وبعدها جرّب جملك في خلية «جرّب بنفسك». <span class="time">دقيقتين</span></li>
+    <li><b>صدّر النموذج:</b> خلية التصدير تحوّله إلى ملف <span class="ltr">GGUF</span>. خلها تشتغل لين تخلص. <span class="time">٥ إلى ١٠ دقائق</span></li>
+    <li><b>انسخه لـ Drive:</b> الخلية تنسخ <code>masrufi.Q4_K_M.gguf</code> و <code>Modelfile</code> لمجلد <b>masrufi</b> في Google Drive، ومنه تنزّلهم على جهازك.</li>
+  </ol>
+  <p class="note"><b>مهم:</b> شغّل الخلايا بالترتيب. كل شي داخل كولاب ينحذف لما تقفل الجلسة، عشان كذا خطوة Drive مهمة.</p>
+</section>
+
+<section id="examples">
+  <h2>أضف أمثلتك <span class="cnt">[3]</span></h2>
+  <p>في الدفتر خلية اسمها <code>MY_EXAMPLES</code>. أضف فيها جمل بطريقة كلامك قبل التدريب، وكل مثال يتكرر ٣ مرات عشان يكون له وزن.</p>
+  <div class="cell"><pre>MY_EXAMPLES = [
+    ("دفعت ١٢ ريال كرك وسمبوسة",
+     [{"item": "كرك وسمبوسة", "amount": 12, "category": "قهوة", "when": "اليوم"}]),
+    ("وش صرفت على القهوة هالشهر؟", []),   # مو مصروف: قائمة فاضية
+]</pre><button class="copy" type="button">انسخ</button></div>
+  <p>التصنيفات المسموحة: مطاعم، قهوة، بقالة، مواصلات، فواتير، تسوق، صحة، ترفيه، أخرى. والوقت: اليوم أو أمس أو قبل أمس.</p>
+</section>
+
+<section id="local">
+  <h2>التشغيل على جهازك <span class="cnt">[4]</span></h2>
+  <ol class="steps">
+    <li>نزّل المشروع (zip) من الزر فوق وفك الضغط.</li>
+    <li>من Google Drive نزّل <code>masrufi.Q4_K_M.gguf</code> وحطه داخل مجلد المشروع. الـ <code>Modelfile</code> موجود فيه أصلاً.</li>
+    <li>افتح الطرفية داخل المجلد وسجّل نموذجك في Ollama:
+      <div class="cell"><pre>ollama create masrufi -f Modelfile</pre><button class="copy" type="button">انسخ</button></div></li>
+    <li>قارن النموذج الأصلي بنموذجك على جهازك:
+      <div class="cell"><pre>python eval.py qwen3:1.7b masrufi</pre><button class="copy" type="button">انسخ</button></div></li>
+    <li>شغّل الوكيل:
+      <div class="cell"><pre>python agent.py</pre><button class="copy" type="button">انسخ</button></div></li>
+  </ol>
+  <p>على ويندوز تقدر تضغط مرتين على <code>run.bat</code> بدل الأوامر. وعلى ماك أو لينكس استخدم <code>python3</code> بدل <code>python</code>.</p>
+</section>
+
+<section id="agent">
+  <h2>استخدام الوكيل <span class="cnt">[5]</span></h2>
+  <p>اكتب مصروفك مثل ما تتكلم، والوكيل يسجّله في <code>expenses.csv</code> على جهازك.</p>
+  <div class="tbl"><table>
+    <thead><tr><th>اكتب</th><th>وش يصير</th></tr></thead>
+    <tbody>
+      <tr><td>دفعت ٢٥ ريال قهوة</td><td>يسجّل المصروف بتاريخ اليوم</td></tr>
+      <tr><td>ملخص</td><td>مجموع آخر ٧ أيام حسب التصنيف</td></tr>
+      <tr><td>آخر</td><td>آخر ٥ مصاريف</td></tr>
+      <tr><td>تراجع</td><td>يشيل آخر مصروف</td></tr>
+      <tr><td>خروج</td><td>يقفل الوكيل</td></tr>
+    </tbody>
+  </table></div>
+  <p style="margin-top:12px">تبي تقارن؟ شغّل نفس الوكيل على النموذج الأصلي: <code>python agent.py qwen3:1.7b</code></p>
+  <h3>الحواجز اللي في الكود</h3>
+  <ul>
+    <li>أي رد مو JSON صالح ما يتسجّل.</li>
+    <li>المبلغ لازم يكون أكبر من صفر وأقل من ٥٠ ألف.</li>
+    <li>التصنيف لازم يكون من القائمة، وإلا يصير «أخرى».</li>
+    <li>أي مبلغ فوق ١٠٠٠ ريال يطلب تأكيدك.</li>
+  </ul>
+</section>
+
+<section id="trouble">
+  <h2>لو صار خطأ <span class="cnt">[6]</span></h2>
+  <div class="tbl"><table>
+    <thead><tr><th>الرسالة</th><th>السبب</th><th>الحل</th></tr></thead>
+    <tbody>
+      <tr><td class="ltr">CUDA / no GPU</td><td>ما اخترت T4</td><td><span class="ltr">Runtime → Change runtime type</span>، ثم شغّل من البداية</td></tr>
+      <tr><td class="ltr">name is not defined</td><td>تخطيت خلية</td><td>شغّل الخلايا اللي قبلها بالترتيب</td></tr>
+      <tr><td class="ltr">out of memory</td><td>ذاكرة الكرت امتلت</td><td><span class="ltr">Runtime → Restart session</span>، أو غيّر <code>MODEL_NAME</code> إلى <code>unsloth/Qwen3-0.6B</code></td></tr>
+      <tr><td>ما يعطيني GPU</td><td>زحمة على كولاب المجاني</td><td>جرّب بعد شوي، أو شغّل الدفتر على <a href="https://www.kaggle.com/code" target="_blank" rel="noopener">Kaggle</a></td></tr>
+      <tr><td>إجابات غريبة في Ollama</td><td>اسم الملف في <code>Modelfile</code> مختلف</td><td>تأكد إن سطر <code>FROM</code> فيه نفس اسم ملف GGUF</td></tr>
+      <tr><td>ما قدرت أوصل لـ Ollama</td><td>Ollama مو شغال</td><td>افتح تطبيق Ollama أو شغّل <code>ollama serve</code></td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<section id="challenge">
+  <h2>تحديات <span class="cnt">[7]</span></h2>
+  <div class="grid">
+    <div class="card"><h3>أسلوبك</h3><p>أضف ١٠ أمثلة بطريقة كلامك، ودرّب مرة ثانية وقارن الأرقام.</p></div>
+    <div class="card"><h3>تصنيف جديد</h3><p>أضف «تعليم» إلى <code>CATEGORIES</code> و <code>ITEMS</code> في <code>make_data.py</code>.</p></div>
+    <div class="card"><h3>اكسره</h3><p>دوّر على جملة يغلط فيها نموذجك، وأضف أمثلة تصلّحها.</p></div>
+  </div>
+</section>
+
+<section id="safety">
+  <h2>قبل ما تدرّب على بياناتك <span class="cnt">[8]</span></h2>
+  <p class="note warn"><b>كولاب سحابة.</b> لا ترفع هويات أو أرقام حسابات أو بيانات عملاء حقيقية. استخدم بيانات مولّدة مثل اللي في هالمشروع، أو امسح الأسماء والأرقام قبل التدريب. النماذج ممكن تحفظ أجزاء من بيانات تدريبها.</p>
+  <p>بعد التصدير، التشغيل كله على جهازك والمصاريف اللي تسجّلها ما تطلع منه. نموذج Qwen3 مرخّص بـ Apache 2.0 (<a href="https://huggingface.co/Qwen/Qwen3-1.7B" target="_blank" rel="noopener">صفحة النموذج</a>)، فتقدر تستخدمه في مشروع تجاري مع ذكر الترخيص.</p>
+  <h3>للمزيد</h3>
+  <ul>
+    <li><a href="https://unsloth.ai/docs" target="_blank" rel="noopener">Unsloth: أدلة التدريب</a></li>
+    <li><a href="https://huggingface.co/Qwen/Qwen3-1.7B" target="_blank" rel="noopener">Qwen3-1.7B على Hugging Face</a></li>
+    <li><a href="https://docs.ollama.com" target="_blank" rel="noopener">Ollama: التوثيق و Modelfile</a></li>
+  </ul>
+</section>
+
+<footer>معاذ المطيري · من الفكرة إلى التنفيذ، الجلسة الثانية</footer>
+</div>
+<script>
+document.addEventListener("click", (e) => {
+  const b = e.target.closest(".copy"); if (!b) return;
+  const text = b.parentElement.querySelector("pre").textContent;
+  const done = (msg) => { b.textContent = msg; setTimeout(() => (b.textContent = "انسخ"), 1600); };
+  try { navigator.clipboard.writeText(text).then(() => done("نُسخ ✓"), () => done("انسخه يدوي")); } catch (_) { done("انسخه يدوي"); }
+});
+</script>
+</body>
+</html>

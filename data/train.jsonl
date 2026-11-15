@@ -1,0 +1,700 @@
+{"text": "بقالة سبعين ريال", "label": {"expenses": [{"item": "بقالة", "amount": 70, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "دفعت ستين ريال غدا اليوم", "label": {"expenses": [{"item": "غدا", "amount": 60, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "امسح آخر مصروف", "label": {"expenses": []}}
+{"text": "دفعت عشرين دواء امس", "label": {"expenses": [{"item": "دواء", "amount": 20, "category": "صحة", "when": "أمس"}]}}
+{"text": "أمس دفعت حق كابتشينو ثلاثين ريال وبعدين دلة قهوة بثلاثين ريال سعودي أول أمس", "label": {"expenses": [{"item": "كابتشينو", "amount": 30, "category": "قهوة", "when": "أمس"}, {"item": "دلة قهوة", "amount": 30, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "سجل تذاكر مباراة 112 ريال أمس", "label": {"expenses": [{"item": "تذاكر مباراة", "amount": 112, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "كلفني حلاق ٢٤ ريال قبل أمس", "label": {"expenses": [{"item": "حلاق", "amount": 24, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "كلفني رز ستين SAR اليوم", "label": {"expenses": [{"item": "رز", "amount": 60, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "طلع علي ساعة ١٠٨٤ ريال اليوم", "label": {"expenses": [{"item": "ساعة", "amount": 1084, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "تقهويت ب35 ريال سعودي قبل أمس", "label": {"expenses": [{"item": "قهوة", "amount": 35, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "طلع علي بلايستيشن 131 ريال سعودي الحين", "label": {"expenses": [{"item": "بلايستيشن", "amount": 131, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "كلفني صيدلية ستين ريال امس وأمس دفعت حق كشفية 364 ريال", "label": {"expenses": [{"item": "صيدلية", "amount": 60, "category": "صحة", "when": "أمس"}, {"item": "كشفية", "amount": 364, "category": "صحة", "when": "أمس"}]}}
+{"text": "راحت ٢٦ على موية قبل أمس", "label": {"expenses": [{"item": "موية", "amount": 26, "category": "بقالة", "when": "قبل أمس"}]}}
+{"text": "قهوة خمسطعش", "label": {"expenses": [{"item": "قهوة", "amount": 15, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "سجل ثوب مية وخمسين ريال اليوم وتغديت ب79 البارحة", "label": {"expenses": [{"item": "ثوب", "amount": 150, "category": "تسوق", "when": "اليوم"}, {"item": "غدا", "amount": 79, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "وش رصيدي؟", "label": {"expenses": []}}
+{"text": "صرفت ٣٣ ريال سعودي على آيس لاتيه البارحة ودفعت ٦٨ ريال تاكسي أول أمس", "label": {"expenses": [{"item": "آيس لاتيه", "amount": 33, "category": "قهوة", "when": "أمس"}, {"item": "تاكسي", "amount": 68, "category": "مواصلات", "when": "قبل أمس"}]}}
+{"text": "كلفني ساعة ٦٠١ ريال أول أمس", "label": {"expenses": [{"item": "ساعة", "amount": 601, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "سجل بولينج 196 SAR اليوم", "label": {"expenses": [{"item": "بولينج", "amount": 196, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "فواكه خمسين و راحت ٨٠ SAR على صيدلية أول أمس", "label": {"expenses": [{"item": "فواكه", "amount": 50, "category": "بقالة", "when": "اليوم"}, {"item": "صيدلية", "amount": 80, "category": "صحة", "when": "قبل أمس"}]}}
+{"text": "حاسبت اشتراك نتفلكس بستين ريال الحين", "label": {"expenses": [{"item": "اشتراك نتفلكس", "amount": 60, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "شكراً", "label": {"expenses": []}}
+{"text": "هلا", "label": {"expenses": []}}
+{"text": "دفعت عشرة ر.س سبانش لاتيه اليوم", "label": {"expenses": [{"item": "سبانش لاتيه", "amount": 10, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "بيتزا ب170 امس", "label": {"expenses": [{"item": "بيتزا", "amount": 170, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "أمس دفعت حق بلايستيشن 152 SAR", "label": {"expenses": [{"item": "بلايستيشن", "amount": 152, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "فيتامينات ب138 ريال سعودي أمس", "label": {"expenses": [{"item": "فيتامينات", "amount": 138, "category": "صحة", "when": "أمس"}]}}
+{"text": "اشتريت موكا بخمسطعش ريال أول أمس", "label": {"expenses": [{"item": "موكا", "amount": 15, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "كلفني كابتشينو 14 ريال قبل أمس", "label": {"expenses": [{"item": "كابتشينو", "amount": 14, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "طلع علي شماغ 343", "label": {"expenses": [{"item": "شماغ", "amount": 343, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "فاتورة الكهرباء ب١٤٧ ريال امس", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 147, "category": "فواتير", "when": "أمس"}]}}
+{"text": "صرفت 25 على حليب امس", "label": {"expenses": [{"item": "حليب", "amount": 25, "category": "بقالة", "when": "أمس"}]}}
+{"text": "سجل كي الملابس 13 ريال قبل أمس وحاسبت فاتورة الكهرباء ب٢٦٧ اليوم", "label": {"expenses": [{"item": "كي الملابس", "amount": 13, "category": "أخرى", "when": "قبل أمس"}, {"item": "فاتورة الكهرباء", "amount": 267, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "حلاق 62.5 ريال", "label": {"expenses": [{"item": "حلاق", "amount": 62.5, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "الحين اشتريت مقاضي البيت ب١١٠ ريال وبعدين دفعت خمسين ر.س ملابس أمس", "label": {"expenses": [{"item": "مقاضي البيت", "amount": 110, "category": "بقالة", "when": "اليوم"}, {"item": "ملابس", "amount": 50, "category": "تسوق", "when": "أمس"}]}}
+{"text": "اشتراك سبوتيفاي ب27 ر.س قبل أمس ودفعت ستين ريال فاتورة النت قبل أمس", "label": {"expenses": [{"item": "اشتراك سبوتيفاي", "amount": 27, "category": "ترفيه", "when": "قبل أمس"}, {"item": "فاتورة النت", "amount": 60, "category": "فواتير", "when": "قبل أمس"}]}}
+{"text": "فطرت ب١٣ SAR قبل أمس", "label": {"expenses": [{"item": "فطور", "amount": 13, "category": "مطاعم", "when": "قبل أمس"}]}}
+{"text": "راحت ستين ريال على فاتورة النت الحين", "label": {"expenses": [{"item": "فاتورة النت", "amount": 60, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "طلع علي شحن رصيد ٩٩ ريال الحين", "label": {"expenses": [{"item": "شحن رصيد", "amount": 99, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "اليوم دفعت حق سبانش لاتيه ١١ ريال", "label": {"expenses": [{"item": "سبانش لاتيه", "amount": 11, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "صرفت 38.5 ريال سعودي على شاورما الحين", "label": {"expenses": [{"item": "شاورما", "amount": 38.5, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "طلع علي بنادول 16 SAR", "label": {"expenses": [{"item": "بنادول", "amount": 16, "category": "صحة", "when": "اليوم"}]}}
+{"text": "حاسبت كي الملابس ب18 SAR", "label": {"expenses": [{"item": "كي الملابس", "amount": 18, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "عبيت بنزين بخمسين اليوم", "label": {"expenses": [{"item": "بنزين", "amount": 50, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "دفعت ٢٦٠ SAR هدية أول أمس", "label": {"expenses": [{"item": "هدية", "amount": 260, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "بكرة بدفع سبعين ريال كي الملابس", "label": {"expenses": []}}
+{"text": "قبل أمس اشتريت سبانش لاتيه ب23 ريال، وحاسبت اشتراك نتفلكس ب٣٧ ريال الحين", "label": {"expenses": [{"item": "سبانش لاتيه", "amount": 23, "category": "قهوة", "when": "قبل أمس"}, {"item": "اشتراك نتفلكس", "amount": 37, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "دفعت ٧٢٨ ريال سعودي فاتورة الكهرباء أمس", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 728, "category": "فواتير", "when": "أمس"}]}}
+{"text": "صرفت ٤٥ على كي الملابس اليوم", "label": {"expenses": [{"item": "كي الملابس", "amount": 45, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "ابي ملخص الأسبوع", "label": {"expenses": []}}
+{"text": "عبيت بنزين بسبعين ريال امس", "label": {"expenses": [{"item": "بنزين", "amount": 70, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "بكرة بدفع 276 فاتورة الموية", "label": {"expenses": []}}
+{"text": "كم صرفت هالشهر؟", "label": {"expenses": []}}
+{"text": "رجعوا لي ١١٦ ريال من بروستد", "label": {"expenses": []}}
+{"text": "جاني تحويل ٦٤٣ من أخوي", "label": {"expenses": []}}
+{"text": "شحنت رصيد ب88 ريال البارحة", "label": {"expenses": [{"item": "شحن رصيد", "amount": 88, "category": "فواتير", "when": "أمس"}]}}
+{"text": "دفعت حق تحليل دم عشرين ريال سعودي", "label": {"expenses": [{"item": "تحليل دم", "amount": 20, "category": "صحة", "when": "اليوم"}]}}
+{"text": "حاسبت مقاضي البيت ب٢٨٦ أول أمس", "label": {"expenses": [{"item": "مقاضي البيت", "amount": 286, "category": "بقالة", "when": "قبل أمس"}]}}
+{"text": "شحنت رصيد ب143 ريال قبل أمس", "label": {"expenses": [{"item": "شحن رصيد", "amount": 143, "category": "فواتير", "when": "قبل أمس"}]}}
+{"text": "خبز ب١٠ SAR البارحة، وبلايستيشن 109 ريال", "label": {"expenses": [{"item": "خبز", "amount": 10, "category": "بقالة", "when": "أمس"}, {"item": "بلايستيشن", "amount": 109, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "دفعت 463 فاتورة الكهرباء أمس، ودفعت 168 ريال فاتورة الموية أمس", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 463, "category": "فواتير", "when": "أمس"}, {"item": "فاتورة الموية", "amount": 168, "category": "فواتير", "when": "أمس"}]}}
+{"text": "بنادول ٥", "label": {"expenses": [{"item": "بنادول", "amount": 5, "category": "صحة", "when": "اليوم"}]}}
+{"text": "سجل تذاكر مباراة سبعين أول أمس", "label": {"expenses": [{"item": "تذاكر مباراة", "amount": 70, "category": "ترفيه", "when": "قبل أمس"}]}}
+{"text": "تقهويت ب35 ريال أول أمس، ودفعت 29 ريال هدية امس", "label": {"expenses": [{"item": "قهوة", "amount": 35, "category": "قهوة", "when": "قبل أمس"}, {"item": "هدية", "amount": 29, "category": "أخرى", "when": "أمس"}]}}
+{"text": "السلام عليكم", "label": {"expenses": []}}
+{"text": "خويي دفع عني فاتورة الموية", "label": {"expenses": []}}
+{"text": "أمس اشتريت هدية ب١٦٧", "label": {"expenses": [{"item": "هدية", "amount": 167, "category": "أخرى", "when": "أمس"}]}}
+{"text": "كشفية ب٢٠٤ ريال سعودي", "label": {"expenses": [{"item": "كشفية", "amount": 204, "category": "صحة", "when": "اليوم"}]}}
+{"text": "طلع علي بنادول 9.5 ريال اليوم", "label": {"expenses": [{"item": "بنادول", "amount": 9.5, "category": "صحة", "when": "اليوم"}]}}
+{"text": "دفعت ٨٥ ر.س تاكسي أول أمس", "label": {"expenses": [{"item": "تاكسي", "amount": 85, "category": "مواصلات", "when": "قبل أمس"}]}}
+{"text": "حاسبت بنزين ب٨٠ ر.س وبقالة 235 ريال", "label": {"expenses": [{"item": "بنزين", "amount": 80, "category": "مواصلات", "when": "اليوم"}, {"item": "بقالة", "amount": 235, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "طلع علي خبز خمسطعش ريال", "label": {"expenses": [{"item": "خبز", "amount": 15, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "طلع علي كشفية ٥٥ البارحة", "label": {"expenses": [{"item": "كشفية", "amount": 55, "category": "صحة", "when": "أمس"}]}}
+{"text": "اليوم اشتريت قهوة مختصة ب35 ريال", "label": {"expenses": [{"item": "قهوة مختصة", "amount": 35, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "كلفني تاكسي ١٣١ ريال قبل أمس", "label": {"expenses": [{"item": "تاكسي", "amount": 131, "category": "مواصلات", "when": "قبل أمس"}]}}
+{"text": "دفعت عشرين ريال فيتامينات", "label": {"expenses": [{"item": "فيتامينات", "amount": 20, "category": "صحة", "when": "اليوم"}]}}
+{"text": "طلع علي موكا ٢٨ ريال البارحة وبعدين سددت فاتورة الكهرباء سبعين اليوم", "label": {"expenses": [{"item": "موكا", "amount": 28, "category": "قهوة", "when": "أمس"}, {"item": "فاتورة الكهرباء", "amount": 70, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "صرفت ٢٦٩ SAR على فيتامينات امس", "label": {"expenses": [{"item": "فيتامينات", "amount": 269, "category": "صحة", "when": "أمس"}]}}
+{"text": "سجل خبز 7 ر.س اليوم", "label": {"expenses": [{"item": "خبز", "amount": 7, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "أول أمس اشتريت رز بعشرين ر.س وطلع علي تبرع ٤٦ ريال اليوم", "label": {"expenses": [{"item": "رز", "amount": 20, "category": "بقالة", "when": "قبل أمس"}, {"item": "تبرع", "amount": 46, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "اشتريت بلايستيشن بمية ريال سعودي أمس", "label": {"expenses": [{"item": "بلايستيشن", "amount": 100, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "صرفت 4 على شاي كرك أمس", "label": {"expenses": [{"item": "شاي كرك", "amount": 4, "category": "قهوة", "when": "أمس"}]}}
+{"text": "ركبت أوبر ب٥٣ ريال امس وبعدين اليوم دفعت حق تبرع 247 ريال", "label": {"expenses": [{"item": "أوبر", "amount": 53, "category": "مواصلات", "when": "أمس"}, {"item": "تبرع", "amount": 247, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "طلع علي بنزين ٣٦ ريال أمس", "label": {"expenses": [{"item": "بنزين", "amount": 36, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "كلفني مقاضي البيت ٨ ريال البارحة", "label": {"expenses": [{"item": "مقاضي البيت", "amount": 8, "category": "بقالة", "when": "أمس"}]}}
+{"text": "رجعوا لي ثلاثين ريال من خبز", "label": {"expenses": []}}
+{"text": "ساعة ثلاث مية ريال", "label": {"expenses": [{"item": "ساعة", "amount": 300, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "ذكرني أدفع فاتورة الكهرباء بكرة", "label": {"expenses": []}}
+{"text": "سماعة ميتين ريال سعودي", "label": {"expenses": [{"item": "سماعة", "amount": 200, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "قبل أمس اشتريت صيدلية ب73 ر.س وبعدين كلفني جزمة خمسين ريال سعودي الحين", "label": {"expenses": [{"item": "صيدلية", "amount": 73, "category": "صحة", "when": "قبل أمس"}, {"item": "جزمة", "amount": 50, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "صديقي صرف ٧٦٢ ر.س على جزمة", "label": {"expenses": []}}
+{"text": "أول أمس اشتريت شاي كرك ب2 ريال", "label": {"expenses": [{"item": "شاي كرك", "amount": 2, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "لو اشتريت سبانش لاتيه ب35 ريال سعودي يكون غالي؟", "label": {"expenses": []}}
+{"text": "دفعت سبعين تاكسي الحين", "label": {"expenses": [{"item": "تاكسي", "amount": 70, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "البارحة اشتريت خبز بعشرة ريال", "label": {"expenses": [{"item": "خبز", "amount": 10, "category": "بقالة", "when": "أمس"}]}}
+{"text": "صرفت 114 ريال على شحن رصيد أول أمس", "label": {"expenses": [{"item": "شحن رصيد", "amount": 114, "category": "فواتير", "when": "قبل أمس"}]}}
+{"text": "صديقي صرف 254 SAR على تذاكر مباراة", "label": {"expenses": []}}
+{"text": "تقهويت ب25 ريال", "label": {"expenses": [{"item": "قهوة", "amount": 25, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "طلع علي آيس لاتيه ثلاثين ريال سعودي قبل أمس", "label": {"expenses": [{"item": "آيس لاتيه", "amount": 30, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "دفعت ٢٤ ريال خضار أول أمس", "label": {"expenses": [{"item": "خضار", "amount": 24, "category": "بقالة", "when": "قبل أمس"}]}}
+{"text": "حاسبت خبز بخمسطعش ريال امس", "label": {"expenses": [{"item": "خبز", "amount": 15, "category": "بقالة", "when": "أمس"}]}}
+{"text": "كلفني فاتورة الجوال ٥٣١ ر.س امس", "label": {"expenses": [{"item": "فاتورة الجوال", "amount": 531, "category": "فواتير", "when": "أمس"}]}}
+{"text": "طلع علي ثوب ثلاث مية ريال سعودي الحين", "label": {"expenses": [{"item": "ثوب", "amount": 300, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "جزمة ١١٣٦ SAR", "label": {"expenses": [{"item": "جزمة", "amount": 1136, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "قبل أمس دفعت حق بولينج ٧٣ ريال سعودي", "label": {"expenses": [{"item": "بولينج", "amount": 73, "category": "ترفيه", "when": "قبل أمس"}]}}
+{"text": "طلع علي شحن رصيد ستين اليوم", "label": {"expenses": [{"item": "شحن رصيد", "amount": 60, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "فطرت ب47 ريال سعودي البارحة وبعدين دفعت 36 ريال فطور", "label": {"expenses": [{"item": "فطور", "amount": 47, "category": "مطاعم", "when": "أمس"}, {"item": "فطور", "amount": 36, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "تغديت ب148 أمس و دفعت ١٧٧ ريال سعودي فاتورة النت أمس", "label": {"expenses": [{"item": "غدا", "amount": 148, "category": "مطاعم", "when": "أمس"}, {"item": "فاتورة النت", "amount": 177, "category": "فواتير", "when": "أمس"}]}}
+{"text": "حاسبت شاي كرك ب٢ ر.س البارحة", "label": {"expenses": [{"item": "شاي كرك", "amount": 2, "category": "قهوة", "when": "أمس"}]}}
+{"text": "سجل بولينج ٢٠", "label": {"expenses": [{"item": "بولينج", "amount": 20, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "دفعت سبعين ريال خضار أمس، ودفعت 343 ر.س تحليل دم الحين", "label": {"expenses": [{"item": "خضار", "amount": 70, "category": "بقالة", "when": "أمس"}, {"item": "تحليل دم", "amount": 343, "category": "صحة", "when": "اليوم"}]}}
+{"text": "وش أكثر شي أصرف عليه؟", "label": {"expenses": []}}
+{"text": "اشتريت بلايستيشن ب٣٩ ريال سعودي امس", "label": {"expenses": [{"item": "بلايستيشن", "amount": 39, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "خويي دفع عني صيدلية", "label": {"expenses": []}}
+{"text": "تغديت ب55 ريال البارحة", "label": {"expenses": [{"item": "غدا", "amount": 55, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "سجل عطر 799 أول أمس", "label": {"expenses": [{"item": "عطر", "amount": 799, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "بروستد 33 ر.س", "label": {"expenses": [{"item": "بروستد", "amount": 33, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "راحت عشرين ريال سعودي على بقالة", "label": {"expenses": [{"item": "بقالة", "amount": 20, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "راحت خمسطعش ريال على قهوة مختصة أمس", "label": {"expenses": [{"item": "قهوة مختصة", "amount": 15, "category": "قهوة", "when": "أمس"}]}}
+{"text": "صرفت 39 ريال على صيدلية البارحة", "label": {"expenses": [{"item": "صيدلية", "amount": 39, "category": "صحة", "when": "أمس"}]}}
+{"text": "كلفني حلاق 45 ريال اليوم", "label": {"expenses": [{"item": "حلاق", "amount": 45, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "اشتريت بروستد ب٥٣ ر.س", "label": {"expenses": [{"item": "بروستد", "amount": 53, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "تعشيت بخمسة وعشرين ر.س أول أمس و أمس دفعت حق ملابس 489", "label": {"expenses": [{"item": "عشا", "amount": 25, "category": "مطاعم", "when": "قبل أمس"}, {"item": "ملابس", "amount": 489, "category": "تسوق", "when": "أمس"}]}}
+{"text": "راحت ٢٠٥ على صيدلية امس", "label": {"expenses": [{"item": "صيدلية", "amount": 205, "category": "صحة", "when": "أمس"}]}}
+{"text": "دفعت ٣٩ ريال كي الملابس", "label": {"expenses": [{"item": "كي الملابس", "amount": 39, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "دفعت 20 ر.س كي الملابس امس", "label": {"expenses": [{"item": "كي الملابس", "amount": 20, "category": "أخرى", "when": "أمس"}]}}
+{"text": "كلفني عطر 862 ريال سعودي الحين وأمس اشتريت فواكه ب40 ريال", "label": {"expenses": [{"item": "عطر", "amount": 862, "category": "تسوق", "when": "اليوم"}, {"item": "فواكه", "amount": 40, "category": "بقالة", "when": "أمس"}]}}
+{"text": "تقهويت ب٣٢ ريال امس وشاي كرك ب2 ريال أول أمس", "label": {"expenses": [{"item": "قهوة", "amount": 32, "category": "قهوة", "when": "أمس"}, {"item": "شاي كرك", "amount": 2, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "راحت ١٢٨ ر.س على دواء امس", "label": {"expenses": [{"item": "دواء", "amount": 128, "category": "صحة", "when": "أمس"}]}}
+{"text": "بروستد 46 ريال سعودي", "label": {"expenses": [{"item": "بروستد", "amount": 46, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "حاسبت أوبر ب24 SAR أمس", "label": {"expenses": [{"item": "أوبر", "amount": 24, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "صرفت 80 ريال سعودي على رز الحين", "label": {"expenses": [{"item": "رز", "amount": 80, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "كلفني عشا مية ريال أمس", "label": {"expenses": [{"item": "عشا", "amount": 100, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "أول أمس دفعت حق سينما 287 ريال", "label": {"expenses": [{"item": "سينما", "amount": 287, "category": "ترفيه", "when": "قبل أمس"}]}}
+{"text": "موية 29.5 ريال", "label": {"expenses": [{"item": "موية", "amount": 29.5, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "صيدلية ستين و سجل ملابس مية وخمسين ر.س قبل أمس", "label": {"expenses": [{"item": "صيدلية", "amount": 60, "category": "صحة", "when": "اليوم"}, {"item": "ملابس", "amount": 150, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "كلفني دواء خمسطعش أمس", "label": {"expenses": [{"item": "دواء", "amount": 15, "category": "صحة", "when": "أمس"}]}}
+{"text": "اشتريت تذكرة مترو ب17 SAR امس", "label": {"expenses": [{"item": "تذكرة مترو", "amount": 17, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "كلفني فواكه 58 ريال سعودي قبل أمس", "label": {"expenses": [{"item": "فواكه", "amount": 58, "category": "بقالة", "when": "قبل أمس"}]}}
+{"text": "صرفت 137 ريال سعودي على مندي اليوم، واشتريت ملابس ب1206 ر.س الحين", "label": {"expenses": [{"item": "مندي", "amount": 137, "category": "مطاعم", "when": "اليوم"}, {"item": "ملابس", "amount": 1206, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "دفعت 40 ريال عشا أمس", "label": {"expenses": [{"item": "عشا", "amount": 40, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "اشتريت عطر ب261 ريال سعودي اليوم", "label": {"expenses": [{"item": "عطر", "amount": 261, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "حاسبت حلاق بستين ر.س أمس", "label": {"expenses": [{"item": "حلاق", "amount": 60, "category": "أخرى", "when": "أمس"}]}}
+{"text": "كلفني بلايستيشن 104 ريال", "label": {"expenses": [{"item": "بلايستيشن", "amount": 104, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "راحت 258 ريال سعودي على بولينج قبل أمس", "label": {"expenses": [{"item": "بولينج", "amount": 258, "category": "ترفيه", "when": "قبل أمس"}]}}
+{"text": "كم سعر بروستد؟", "label": {"expenses": []}}
+{"text": "دفعت ٧ ريال خبز البارحة", "label": {"expenses": [{"item": "خبز", "amount": 7, "category": "بقالة", "when": "أمس"}]}}
+{"text": "امس دفعت حق تبرع 138 ريال", "label": {"expenses": [{"item": "تبرع", "amount": 138, "category": "أخرى", "when": "أمس"}]}}
+{"text": "اشتراك نتفلكس 57 ريال", "label": {"expenses": [{"item": "اشتراك نتفلكس", "amount": 57, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "طلع علي شاي كرك 2", "label": {"expenses": [{"item": "شاي كرك", "amount": 2, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "اليوم دفعت حق تحليل دم أربعين ريال", "label": {"expenses": [{"item": "تحليل دم", "amount": 40, "category": "صحة", "when": "اليوم"}]}}
+{"text": "تقهويت ب٣٠", "label": {"expenses": [{"item": "قهوة", "amount": 30, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "اشتريت شاورما ب٢٧ ريال", "label": {"expenses": [{"item": "شاورما", "amount": 27, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "عطني نصيحة أوفر", "label": {"expenses": []}}
+{"text": "كلفني صيدلية ستين الحين", "label": {"expenses": [{"item": "صيدلية", "amount": 60, "category": "صحة", "when": "اليوم"}]}}
+{"text": "هدية ب87 ريال قبل أمس", "label": {"expenses": [{"item": "هدية", "amount": 87, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "تقهويت ب17 ريال سعودي", "label": {"expenses": [{"item": "قهوة", "amount": 17, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "كلفني بقالة 377 ريال الحين", "label": {"expenses": [{"item": "بقالة", "amount": 377, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "حاسبت كابتشينو ب21 ريال أول أمس", "label": {"expenses": [{"item": "كابتشينو", "amount": 21, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "صرفت ميتين SAR على ملابس", "label": {"expenses": [{"item": "ملابس", "amount": 200, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "دفعت 829 ريال فاتورة الموية أول أمس و صرفت خمسطعش SAR على كبسة امس", "label": {"expenses": [{"item": "فاتورة الموية", "amount": 829, "category": "فواتير", "when": "قبل أمس"}, {"item": "كبسة", "amount": 15, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "صرفت 14 SAR على موية أول أمس", "label": {"expenses": [{"item": "موية", "amount": 14, "category": "بقالة", "when": "قبل أمس"}]}}
+{"text": "دفعت 75 SAR غسيل السيارة", "label": {"expenses": [{"item": "غسيل السيارة", "amount": 75, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "تقهويت ب24 ريال أمس", "label": {"expenses": [{"item": "قهوة", "amount": 24, "category": "قهوة", "when": "أمس"}]}}
+{"text": "تقهويت ب21 ريال الحين وكلفني مندي 133 ريال الحين", "label": {"expenses": [{"item": "قهوة", "amount": 21, "category": "قهوة", "when": "اليوم"}, {"item": "مندي", "amount": 133, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "سجل هدية خمسة وعشرين ر.س أول أمس", "label": {"expenses": [{"item": "هدية", "amount": 25, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "صرفت ثلاث مية ريال على فاتورة الموية الحين", "label": {"expenses": [{"item": "فاتورة الموية", "amount": 300, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "أول أمس اشتريت جزمة ب121", "label": {"expenses": [{"item": "جزمة", "amount": 121, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "حاسبت قهوة مختصة ب١١ ريال سعودي أمس", "label": {"expenses": [{"item": "قهوة مختصة", "amount": 11, "category": "قهوة", "when": "أمس"}]}}
+{"text": "بكرة بدفع خمسة وعشرين ريال دواء", "label": {"expenses": []}}
+{"text": "ركبت أوبر ب٥٥ ريال", "label": {"expenses": [{"item": "أوبر", "amount": 55, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "دفعت عشرين ريال سعودي سينما أمس", "label": {"expenses": [{"item": "سينما", "amount": 20, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "حاسبت سينما ب٢١٩ أول أمس", "label": {"expenses": [{"item": "سينما", "amount": 219, "category": "ترفيه", "when": "قبل أمس"}]}}
+{"text": "حاسبت بنزين ب١٣٢ ريال أمس، وراحت 838 على جزمة اليوم", "label": {"expenses": [{"item": "بنزين", "amount": 132, "category": "مواصلات", "when": "أمس"}, {"item": "جزمة", "amount": 838, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "حاسبت تذكرة مترو بعشرة ريال", "label": {"expenses": [{"item": "تذكرة مترو", "amount": 10, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "دفعت ٣٦ ريال كي الملابس", "label": {"expenses": [{"item": "كي الملابس", "amount": 36, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "دفعت ٥٣٤ ريال سعودي فاتورة النت", "label": {"expenses": [{"item": "فاتورة النت", "amount": 534, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "صرفت 58 ريال على أوبر امس", "label": {"expenses": [{"item": "أوبر", "amount": 58, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "كابتشينو عشرين ريال", "label": {"expenses": [{"item": "كابتشينو", "amount": 20, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "امس دفعت حق مندي 217 ريال", "label": {"expenses": [{"item": "مندي", "amount": 217, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "الحين اشتريت شاورما ب14 ريال", "label": {"expenses": [{"item": "شاورما", "amount": 14, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "أمس اشتريت حليب ب10 ريال", "label": {"expenses": [{"item": "حليب", "amount": 10, "category": "بقالة", "when": "أمس"}]}}
+{"text": "بكرة بدفع 280 ريال كشفية", "label": {"expenses": []}}
+{"text": "سينما ب88 ريال امس", "label": {"expenses": [{"item": "سينما", "amount": 88, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "دفعت 59 ر.س جزمة أول أمس وتقهويت ب19 ر.س قبل أمس", "label": {"expenses": [{"item": "جزمة", "amount": 59, "category": "تسوق", "when": "قبل أمس"}, {"item": "قهوة", "amount": 19, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "دفعت ٤ ريال خبز امس", "label": {"expenses": [{"item": "خبز", "amount": 4, "category": "بقالة", "when": "أمس"}]}}
+{"text": "فطرت ب48 ر.س أول أمس", "label": {"expenses": [{"item": "فطور", "amount": 48, "category": "مطاعم", "when": "قبل أمس"}]}}
+{"text": "اشتراك نتفلكس ب٢٧ أول أمس و صرفت خمسين ر.س على هدية الحين", "label": {"expenses": [{"item": "اشتراك نتفلكس", "amount": 27, "category": "ترفيه", "when": "قبل أمس"}, {"item": "هدية", "amount": 50, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "دفعت ٨٧ SAR رز", "label": {"expenses": [{"item": "رز", "amount": 87, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "بكرة بدفع 132 ريال سعودي بقالة", "label": {"expenses": []}}
+{"text": "اشتريت هدية ب٢٠ قبل أمس", "label": {"expenses": [{"item": "هدية", "amount": 20, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "حاسبت سينما ب٤٠ ريال سعودي امس", "label": {"expenses": [{"item": "سينما", "amount": 40, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "كم سعر مقاضي البيت؟", "label": {"expenses": []}}
+{"text": "سددت فاتورة الكهرباء 505 ريال سعودي أمس", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 505, "category": "فواتير", "when": "أمس"}]}}
+{"text": "راحت 59 ريال على حلاق امس", "label": {"expenses": [{"item": "حلاق", "amount": 59, "category": "أخرى", "when": "أمس"}]}}
+{"text": "ركبت أوبر ب٥٧ ريال أمس وطلع علي كي الملابس ٢٣ ريال", "label": {"expenses": [{"item": "أوبر", "amount": 57, "category": "مواصلات", "when": "أمس"}, {"item": "كي الملابس", "amount": 23, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "كلفني ثوب 271 ر.س اليوم", "label": {"expenses": [{"item": "ثوب", "amount": 271, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "فواكه 24 ريال وكي الملابس ب50 الحين", "label": {"expenses": [{"item": "فواكه", "amount": 24, "category": "بقالة", "when": "اليوم"}, {"item": "كي الملابس", "amount": 50, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "خويي دفع عني شاي كرك", "label": {"expenses": []}}
+{"text": "صرفت 937 SAR على ساعة و تذاكر مباراة 94", "label": {"expenses": [{"item": "ساعة", "amount": 937, "category": "تسوق", "when": "اليوم"}, {"item": "تذاكر مباراة", "amount": 94, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "رجعوا لي 546 ريال من سماعة", "label": {"expenses": []}}
+{"text": "تعشيت ب152 ر.س قبل أمس", "label": {"expenses": [{"item": "عشا", "amount": 152, "category": "مطاعم", "when": "قبل أمس"}]}}
+{"text": "فيتامينات 194 ريال", "label": {"expenses": [{"item": "فيتامينات", "amount": 194, "category": "صحة", "when": "اليوم"}]}}
+{"text": "الحين اشتريت هدية ب297 ريال", "label": {"expenses": [{"item": "هدية", "amount": 297, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "تذاكر مباراة 195 ريال سعودي", "label": {"expenses": [{"item": "تذاكر مباراة", "amount": 195, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "طلع علي فواكه ٣١٫٥ ريال سعودي امس", "label": {"expenses": [{"item": "فواكه", "amount": 31.5, "category": "بقالة", "when": "أمس"}]}}
+{"text": "تبرع 116 ريال", "label": {"expenses": [{"item": "تبرع", "amount": 116, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "سجل عشا 177 ريال قبل أمس", "label": {"expenses": [{"item": "عشا", "amount": 177, "category": "مطاعم", "when": "قبل أمس"}]}}
+{"text": "دفعت حق فاتورة الكهرباء 140 ريال", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 140, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "سجل حلاق 52 أمس وبعدين تقهويت بعشرة ر.س الحين", "label": {"expenses": [{"item": "حلاق", "amount": 52, "category": "أخرى", "when": "أمس"}, {"item": "قهوة", "amount": 10, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "دفعت عشرين ريال بنادول البارحة", "label": {"expenses": [{"item": "بنادول", "amount": 20, "category": "صحة", "when": "أمس"}]}}
+{"text": "صرفت ستين ريال على جزمة اليوم", "label": {"expenses": [{"item": "جزمة", "amount": 60, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "دفعت 37 ريال صيدلية أمس، وعبيت بنزين ب134 ر.س قبل أمس", "label": {"expenses": [{"item": "صيدلية", "amount": 37, "category": "صحة", "when": "أمس"}, {"item": "بنزين", "amount": 134, "category": "مواصلات", "when": "قبل أمس"}]}}
+{"text": "بلايستيشن ب133 ريال سعودي قبل أمس", "label": {"expenses": [{"item": "بلايستيشن", "amount": 133, "category": "ترفيه", "when": "قبل أمس"}]}}
+{"text": "عبيت بنزين ب١٤٢ ريال البارحة", "label": {"expenses": [{"item": "بنزين", "amount": 142, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "طلع علي فيتامينات 231 ر.س البارحة", "label": {"expenses": [{"item": "فيتامينات", "amount": 231, "category": "صحة", "when": "أمس"}]}}
+{"text": "طلع علي تاكسي 16 ريال الحين و خبز ب4 SAR أول أمس", "label": {"expenses": [{"item": "تاكسي", "amount": 16, "category": "مواصلات", "when": "اليوم"}, {"item": "خبز", "amount": 4, "category": "بقالة", "when": "قبل أمس"}]}}
+{"text": "أول أمس اشتريت سماعة ب٤٧٦ ر.س، وركبت أوبر ب45 ر.س أول أمس", "label": {"expenses": [{"item": "سماعة", "amount": 476, "category": "تسوق", "when": "قبل أمس"}, {"item": "أوبر", "amount": 45, "category": "مواصلات", "when": "قبل أمس"}]}}
+{"text": "سجل تحليل دم عشرين ر.س اليوم", "label": {"expenses": [{"item": "تحليل دم", "amount": 20, "category": "صحة", "when": "اليوم"}]}}
+{"text": "دفعت 5 SAR بنادول الحين", "label": {"expenses": [{"item": "بنادول", "amount": 5, "category": "صحة", "when": "اليوم"}]}}
+{"text": "امس اشتريت شماغ بمية ريال", "label": {"expenses": [{"item": "شماغ", "amount": 100, "category": "تسوق", "when": "أمس"}]}}
+{"text": "جاني تحويل ٢٧٫٥ من أخوي", "label": {"expenses": []}}
+{"text": "صرفت عشرين ريال على حليب قبل أمس", "label": {"expenses": [{"item": "حليب", "amount": 20, "category": "بقالة", "when": "قبل أمس"}]}}
+{"text": "تقهويت ب16", "label": {"expenses": [{"item": "قهوة", "amount": 16, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "صرفت 264 على تبرع امس", "label": {"expenses": [{"item": "تبرع", "amount": 264, "category": "أخرى", "when": "أمس"}]}}
+{"text": "دفعت 206 ريال شماغ", "label": {"expenses": [{"item": "شماغ", "amount": 206, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "أمس اشتريت مندي ب192 ريال", "label": {"expenses": [{"item": "مندي", "amount": 192, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "شنطة 1459 ريال سعودي", "label": {"expenses": [{"item": "شنطة", "amount": 1459, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "دفعت 485 SAR تبرع أول أمس", "label": {"expenses": [{"item": "تبرع", "amount": 485, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "صرفت ٣٣٦ ريال على تبرع امس وبعدين تعشيت ب٩٤ ريال سعودي أول أمس", "label": {"expenses": [{"item": "تبرع", "amount": 336, "category": "أخرى", "when": "أمس"}, {"item": "عشا", "amount": 94, "category": "مطاعم", "when": "قبل أمس"}]}}
+{"text": "ركبت أوبر بخمسين ريال امس و سجل خبز 10 ريال سعودي الحين", "label": {"expenses": [{"item": "أوبر", "amount": 50, "category": "مواصلات", "when": "أمس"}, {"item": "خبز", "amount": 10, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "شحنت رصيد بعشرين ريال امس و ركبت أوبر ب37.5 ريال البارحة", "label": {"expenses": [{"item": "شحن رصيد", "amount": 20, "category": "فواتير", "when": "أمس"}, {"item": "أوبر", "amount": 37.5, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "تعشيت بخمسين ريال امس", "label": {"expenses": [{"item": "عشا", "amount": 50, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "كلفني دواء 101 ريال سعودي امس", "label": {"expenses": [{"item": "دواء", "amount": 101, "category": "صحة", "when": "أمس"}]}}
+{"text": "فاتورة الجوال ب444 ريال امس", "label": {"expenses": [{"item": "فاتورة الجوال", "amount": 444, "category": "فواتير", "when": "أمس"}]}}
+{"text": "حاسبت تبرع بميتين ريال سعودي امس، وجزمة 521 ر.س", "label": {"expenses": [{"item": "تبرع", "amount": 200, "category": "أخرى", "when": "أمس"}, {"item": "جزمة", "amount": 521, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "سددت فاتورة الكهرباء ميتين ريال", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 200, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "راحت ٦١ ريال على بلايستيشن أمس", "label": {"expenses": [{"item": "بلايستيشن", "amount": 61, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "لو اشتريت موكا ب٢٤ ريال سعودي يكون غالي؟", "label": {"expenses": []}}
+{"text": "صديقي صرف 38 على حلاق", "label": {"expenses": []}}
+{"text": "بولينج ب293 الحين", "label": {"expenses": [{"item": "بولينج", "amount": 293, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "دفعت 27 موكا البارحة", "label": {"expenses": [{"item": "موكا", "amount": 27, "category": "قهوة", "when": "أمس"}]}}
+{"text": "صرفت ٣٤ ريال سعودي على فواكه أول أمس", "label": {"expenses": [{"item": "فواكه", "amount": 34, "category": "بقالة", "when": "قبل أمس"}]}}
+{"text": "تقهويت ب٣١٫٥ ريال اليوم", "label": {"expenses": [{"item": "قهوة", "amount": 31.5, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "اليوم اشتريت شحن رصيد ب١٩٨ SAR", "label": {"expenses": [{"item": "شحن رصيد", "amount": 198, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "اشتريت آيس لاتيه ب33 اليوم", "label": {"expenses": [{"item": "آيس لاتيه", "amount": 33, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "الحين دفعت حق دواء 131 ريال", "label": {"expenses": [{"item": "دواء", "amount": 131, "category": "صحة", "when": "اليوم"}]}}
+{"text": "دفعت مية وخمسين مندي أمس", "label": {"expenses": [{"item": "مندي", "amount": 150, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "خضار ٨٢ ريال سعودي، واشتريت ساعة ب173 ريال اليوم", "label": {"expenses": [{"item": "خضار", "amount": 82, "category": "بقالة", "when": "اليوم"}, {"item": "ساعة", "amount": 173, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "طلع علي كي الملابس أربعين ريال اليوم", "label": {"expenses": [{"item": "كي الملابس", "amount": 40, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "تقهويت ب٢٣ ريال أول أمس", "label": {"expenses": [{"item": "قهوة", "amount": 23, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "سينما ب168 SAR قبل أمس", "label": {"expenses": [{"item": "سينما", "amount": 168, "category": "ترفيه", "when": "قبل أمس"}]}}
+{"text": "تقهويت ب31 ريال قبل أمس", "label": {"expenses": [{"item": "قهوة", "amount": 31, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "حلاق ب٧٧ ريال", "label": {"expenses": [{"item": "حلاق", "amount": 77, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "راحت 774 ر.س على شنطة البارحة و طلع علي بلايستيشن مية ريال سعودي", "label": {"expenses": [{"item": "شنطة", "amount": 774, "category": "تسوق", "when": "أمس"}, {"item": "بلايستيشن", "amount": 100, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "صرفت 53 ريال سعودي على رز الحين", "label": {"expenses": [{"item": "رز", "amount": 53, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "خويي دفع عني موكا", "label": {"expenses": []}}
+{"text": "دفعت 58 ريال أوبر أمس", "label": {"expenses": [{"item": "أوبر", "amount": 58, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "طلع علي صيدلية 261 SAR أمس", "label": {"expenses": [{"item": "صيدلية", "amount": 261, "category": "صحة", "when": "أمس"}]}}
+{"text": "سجل خضار ثلاثين ريال سعودي امس", "label": {"expenses": [{"item": "خضار", "amount": 30, "category": "بقالة", "when": "أمس"}]}}
+{"text": "عطر ب273 البارحة", "label": {"expenses": [{"item": "عطر", "amount": 273, "category": "تسوق", "when": "أمس"}]}}
+{"text": "طلع علي بلايستيشن 31 ريال امس", "label": {"expenses": [{"item": "بلايستيشن", "amount": 31, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "ركبت أوبر بأربعين ريال اليوم", "label": {"expenses": [{"item": "أوبر", "amount": 40, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "سجل غدا مية وخمسين ريال سعودي البارحة، ودفعت 2 ريال خبز", "label": {"expenses": [{"item": "غدا", "amount": 150, "category": "مطاعم", "when": "أمس"}, {"item": "خبز", "amount": 2, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "اشتريت ثوب ب134 SAR البارحة", "label": {"expenses": [{"item": "ثوب", "amount": 134, "category": "تسوق", "when": "أمس"}]}}
+{"text": "صرفت 177 ريال على فيتامينات البارحة", "label": {"expenses": [{"item": "فيتامينات", "amount": 177, "category": "صحة", "when": "أمس"}]}}
+{"text": "اشتريت شماغ بسبعين ر.س الحين", "label": {"expenses": [{"item": "شماغ", "amount": 70, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "طلع علي قهوة مختصة ٢٦ ريال البارحة", "label": {"expenses": [{"item": "قهوة مختصة", "amount": 26, "category": "قهوة", "when": "أمس"}]}}
+{"text": "كلفني فاتورة الكهرباء 831 ر.س أول أمس", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 831, "category": "فواتير", "when": "قبل أمس"}]}}
+{"text": "أول أمس دفعت حق حلاق عشرين ريال و اشتريت عطر ب118 ريال اليوم", "label": {"expenses": [{"item": "حلاق", "amount": 20, "category": "أخرى", "when": "قبل أمس"}, {"item": "عطر", "amount": 118, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "صرفت 30 SAR على فواكه البارحة", "label": {"expenses": [{"item": "فواكه", "amount": 30, "category": "بقالة", "when": "أمس"}]}}
+{"text": "كلفني بلايستيشن 219 SAR البارحة", "label": {"expenses": [{"item": "بلايستيشن", "amount": 219, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "دفعت 30 ريال لاتيه", "label": {"expenses": [{"item": "لاتيه", "amount": 30, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "بنادول ١٣ ريال سعودي", "label": {"expenses": [{"item": "بنادول", "amount": 13, "category": "صحة", "when": "اليوم"}]}}
+{"text": "طلع علي غسيل السيارة ١٣٧ الحين", "label": {"expenses": [{"item": "غسيل السيارة", "amount": 137, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "دفعت 537 ريال فاتورة النت أمس", "label": {"expenses": [{"item": "فاتورة النت", "amount": 537, "category": "فواتير", "when": "أمس"}]}}
+{"text": "دفعت أربعين ريال بولينج البارحة", "label": {"expenses": [{"item": "بولينج", "amount": 40, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "اشتريت تذاكر مباراة ب172 ريال اليوم", "label": {"expenses": [{"item": "تذاكر مباراة", "amount": 172, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "تعشيت بخمسين SAR اليوم", "label": {"expenses": [{"item": "عشا", "amount": 50, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "فيتامينات ب381 ريال البارحة وبعدين عبيت بنزين بسبعين ر.س أمس", "label": {"expenses": [{"item": "فيتامينات", "amount": 381, "category": "صحة", "when": "أمس"}, {"item": "بنزين", "amount": 70, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "تعشيت بعشرين اليوم", "label": {"expenses": [{"item": "عشا", "amount": 20, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "هدية مية وخمسين ر.س", "label": {"expenses": [{"item": "هدية", "amount": 150, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "أمس دفعت حق هدية 49 SAR و صرفت أربعين ريال على كريم اليوم", "label": {"expenses": [{"item": "هدية", "amount": 49, "category": "أخرى", "when": "أمس"}, {"item": "كريم", "amount": 40, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "امس دفعت حق كشفية 36 ر.س", "label": {"expenses": [{"item": "كشفية", "amount": 36, "category": "صحة", "when": "أمس"}]}}
+{"text": "راحت 18 على بنادول الحين", "label": {"expenses": [{"item": "بنادول", "amount": 18, "category": "صحة", "when": "اليوم"}]}}
+{"text": "اشتريت بنادول بعشرين ريال سعودي امس", "label": {"expenses": [{"item": "بنادول", "amount": 20, "category": "صحة", "when": "أمس"}]}}
+{"text": "تقهويت ب27 ر.س أول أمس وبعدين كلفني ثوب 330 ريال قبل أمس", "label": {"expenses": [{"item": "قهوة", "amount": 27, "category": "قهوة", "when": "قبل أمس"}, {"item": "ثوب", "amount": 330, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "أمس دفعت حق شاي كرك ٤ ر.س", "label": {"expenses": [{"item": "شاي كرك", "amount": 4, "category": "قهوة", "when": "أمس"}]}}
+{"text": "سجل بلايستيشن 290 ر.س أمس", "label": {"expenses": [{"item": "بلايستيشن", "amount": 290, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "الحين اشتريت جزمة بخمس مية ريال سعودي وطلع علي كبسة خمسة وعشرين امس", "label": {"expenses": [{"item": "جزمة", "amount": 500, "category": "تسوق", "when": "اليوم"}, {"item": "كبسة", "amount": 25, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "اليوم دفعت حق حلاق 43.5", "label": {"expenses": [{"item": "حلاق", "amount": 43.5, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "البارحة دفعت حق حليب خمسطعش", "label": {"expenses": [{"item": "حليب", "amount": 15, "category": "بقالة", "when": "أمس"}]}}
+{"text": "امس دفعت حق تذكرة مترو ١٠ ريال", "label": {"expenses": [{"item": "تذكرة مترو", "amount": 10, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "صرفت ٤٨٨ SAR على فاتورة النت أول أمس", "label": {"expenses": [{"item": "فاتورة النت", "amount": 488, "category": "فواتير", "when": "قبل أمس"}]}}
+{"text": "صرفت 80 SAR على كبسة قبل أمس", "label": {"expenses": [{"item": "كبسة", "amount": 80, "category": "مطاعم", "when": "قبل أمس"}]}}
+{"text": "راحت عشرة SAR على تذكرة مترو البارحة", "label": {"expenses": [{"item": "تذكرة مترو", "amount": 10, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "كلفني اشتراك سبوتيفاي ٢٧ اليوم", "label": {"expenses": [{"item": "اشتراك سبوتيفاي", "amount": 27, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "امس دفعت حق بقالة 210 ر.س", "label": {"expenses": [{"item": "بقالة", "amount": 210, "category": "بقالة", "when": "أمس"}]}}
+{"text": "كلفني صيدلية عشرين ريال", "label": {"expenses": [{"item": "صيدلية", "amount": 20, "category": "صحة", "when": "اليوم"}]}}
+{"text": "دفعت 24 SAR تاكسي قبل أمس", "label": {"expenses": [{"item": "تاكسي", "amount": 24, "category": "مواصلات", "when": "قبل أمس"}]}}
+{"text": "طلع علي عطر ٦٤١ ريال امس", "label": {"expenses": [{"item": "عطر", "amount": 641, "category": "تسوق", "when": "أمس"}]}}
+{"text": "صرفت ١٩٤ ريال على شحن رصيد امس", "label": {"expenses": [{"item": "شحن رصيد", "amount": 194, "category": "فواتير", "when": "أمس"}]}}
+{"text": "البارحة دفعت حق كشفية 121", "label": {"expenses": [{"item": "كشفية", "amount": 121, "category": "صحة", "when": "أمس"}]}}
+{"text": "طلع علي فواكه سبعين ريال سعودي", "label": {"expenses": [{"item": "فواكه", "amount": 70, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "كي الملابس ب١٢ ريال أول أمس", "label": {"expenses": [{"item": "كي الملابس", "amount": 12, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "تقهويت ب9 الحين", "label": {"expenses": [{"item": "قهوة", "amount": 9, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "اليوم دفعت حق فاتورة الجوال سبعين وبعدين تقهويت ب30 ريال سعودي أول أمس", "label": {"expenses": [{"item": "فاتورة الجوال", "amount": 70, "category": "فواتير", "when": "اليوم"}, {"item": "قهوة", "amount": 30, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "دفعت سبعين SAR غدا امس و طلع علي كريم 82 SAR الحين", "label": {"expenses": [{"item": "غدا", "amount": 70, "category": "مطاعم", "when": "أمس"}, {"item": "كريم", "amount": 82, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "اشتريت فلافل ب٧ ريال سعودي الحين", "label": {"expenses": [{"item": "فلافل", "amount": 7, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "حاسبت سماعة بميتين ريال سعودي اليوم وبعدين اليوم دفعت حق أوبر 75 ريال", "label": {"expenses": [{"item": "سماعة", "amount": 200, "category": "تسوق", "when": "اليوم"}, {"item": "أوبر", "amount": 75, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "امس دفعت حق فاتورة الكهرباء ثلاث مية SAR، وصرفت 30 ريال سعودي على بنزين الحين", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 300, "category": "فواتير", "when": "أمس"}, {"item": "بنزين", "amount": 30, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "رجعوا لي ٧٩٥ SAR من ملابس", "label": {"expenses": []}}
+{"text": "كلفني هدية 92 ريال أول أمس", "label": {"expenses": [{"item": "هدية", "amount": 92, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "بكرة بدفع 22 ريال لاتيه", "label": {"expenses": []}}
+{"text": "طلع علي حليب 4 ريال أول أمس", "label": {"expenses": [{"item": "حليب", "amount": 4, "category": "بقالة", "when": "قبل أمس"}]}}
+{"text": "تقهويت بخمسة وعشرين ر.س امس و حلاق ب٥٤ ريال امس", "label": {"expenses": [{"item": "قهوة", "amount": 25, "category": "قهوة", "when": "أمس"}, {"item": "حلاق", "amount": 54, "category": "أخرى", "when": "أمس"}]}}
+{"text": "دفعت 283 ريال تبرع اليوم و كلفني دلة قهوة ثلاثين SAR اليوم", "label": {"expenses": [{"item": "تبرع", "amount": 283, "category": "أخرى", "when": "اليوم"}, {"item": "دلة قهوة", "amount": 30, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "فاتورة الموية 623 ريال و عبيت بنزين ب73 ريال", "label": {"expenses": [{"item": "فاتورة الموية", "amount": 623, "category": "فواتير", "when": "اليوم"}, {"item": "بنزين", "amount": 73, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "شنطة ب700 SAR قبل أمس", "label": {"expenses": [{"item": "شنطة", "amount": 700, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "اشتريت آيس لاتيه ب20 ريال أمس", "label": {"expenses": [{"item": "آيس لاتيه", "amount": 20, "category": "قهوة", "when": "أمس"}]}}
+{"text": "راحت ٣٠٥ ريال على شماغ البارحة", "label": {"expenses": [{"item": "شماغ", "amount": 305, "category": "تسوق", "when": "أمس"}]}}
+{"text": "تقهويت ب11 ر.س البارحة", "label": {"expenses": [{"item": "قهوة", "amount": 11, "category": "قهوة", "when": "أمس"}]}}
+{"text": "تقهويت ب١٦ ر.س أول أمس", "label": {"expenses": [{"item": "قهوة", "amount": 16, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "سجل اشتراك سبوتيفاي 26.5 SAR البارحة وبعدين صيدلية 188 SAR", "label": {"expenses": [{"item": "اشتراك سبوتيفاي", "amount": 26.5, "category": "ترفيه", "when": "أمس"}, {"item": "صيدلية", "amount": 188, "category": "صحة", "when": "اليوم"}]}}
+{"text": "سجل غدا 136 امس", "label": {"expenses": [{"item": "غدا", "amount": 136, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "اشتريت هدية بمية وخمسين", "label": {"expenses": [{"item": "هدية", "amount": 150, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "مقاضي البيت ٩٠ SAR", "label": {"expenses": [{"item": "مقاضي البيت", "amount": 90, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "صرفت ٣٢٥ على فيتامينات الحين", "label": {"expenses": [{"item": "فيتامينات", "amount": 325, "category": "صحة", "when": "اليوم"}]}}
+{"text": "برجر ب79 ر.س اليوم", "label": {"expenses": [{"item": "برجر", "amount": 79, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "حاسبت كي الملابس بثلاثين ريال قبل أمس", "label": {"expenses": [{"item": "كي الملابس", "amount": 30, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "كلفني ملابس 1404 ر.س قبل أمس", "label": {"expenses": [{"item": "ملابس", "amount": 1404, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "كلفني بيتزا 29 ر.س اليوم", "label": {"expenses": [{"item": "بيتزا", "amount": 29, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "دفعت ٦٢٫٥ ر.س اشتراك نتفلكس أمس", "label": {"expenses": [{"item": "اشتراك نتفلكس", "amount": 62.5, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "دفعت ثلاثين ريال كي الملابس أمس", "label": {"expenses": [{"item": "كي الملابس", "amount": 30, "category": "أخرى", "when": "أمس"}]}}
+{"text": "فلافل خمسة وعشرين", "label": {"expenses": [{"item": "فلافل", "amount": 25, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "راحت 1065 ريال على ملابس البارحة", "label": {"expenses": [{"item": "ملابس", "amount": 1065, "category": "تسوق", "when": "أمس"}]}}
+{"text": "فطرت ب13 SAR قبل أمس وبعدين راحت ١٠٢٢ على جزمة البارحة", "label": {"expenses": [{"item": "فطور", "amount": 13, "category": "مطاعم", "when": "قبل أمس"}, {"item": "جزمة", "amount": 1022, "category": "تسوق", "when": "أمس"}]}}
+{"text": "استلمت راتبي ١٠١٧ ريال", "label": {"expenses": []}}
+{"text": "حاسبت دواء ب٤٨ ريال سعودي أول أمس", "label": {"expenses": [{"item": "دواء", "amount": 48, "category": "صحة", "when": "قبل أمس"}]}}
+{"text": "كشفية ب217 SAR امس", "label": {"expenses": [{"item": "كشفية", "amount": 217, "category": "صحة", "when": "أمس"}]}}
+{"text": "دفعت 352 ريال فاتورة الكهرباء البارحة", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 352, "category": "فواتير", "when": "أمس"}]}}
+{"text": "دلة قهوة ب32 ريال سعودي الحين", "label": {"expenses": [{"item": "دلة قهوة", "amount": 32, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "موكا 19 ريال والبارحة دفعت حق موية ١٢ ريال سعودي", "label": {"expenses": [{"item": "موكا", "amount": 19, "category": "قهوة", "when": "اليوم"}, {"item": "موية", "amount": 12, "category": "بقالة", "when": "أمس"}]}}
+{"text": "سجل سبانش لاتيه 27 ريال الحين", "label": {"expenses": [{"item": "سبانش لاتيه", "amount": 27, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "صرفت 113 ريال على بنزين امس و سجل كشفية 324 ر.س امس", "label": {"expenses": [{"item": "بنزين", "amount": 113, "category": "مواصلات", "when": "أمس"}, {"item": "كشفية", "amount": 324, "category": "صحة", "when": "أمس"}]}}
+{"text": "سددت فاتورة الكهرباء ١١٣ ريال البارحة", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 113, "category": "فواتير", "when": "أمس"}]}}
+{"text": "خويي دفع عني اشتراك سبوتيفاي", "label": {"expenses": []}}
+{"text": "امس دفعت حق عطر مية وخمسين SAR", "label": {"expenses": [{"item": "عطر", "amount": 150, "category": "تسوق", "when": "أمس"}]}}
+{"text": "راحت ٢٦٨ ريال على هدية البارحة", "label": {"expenses": [{"item": "هدية", "amount": 268, "category": "أخرى", "when": "أمس"}]}}
+{"text": "سجل فاتورة الكهرباء 642 SAR", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 642, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "طلع علي حلاق أربعين الحين", "label": {"expenses": [{"item": "حلاق", "amount": 40, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "دفعت 31.5 ريال سعودي اشتراك نتفلكس اليوم", "label": {"expenses": [{"item": "اشتراك نتفلكس", "amount": 31.5, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "امس اشتريت بروستد ب32 ريال سعودي", "label": {"expenses": [{"item": "بروستد", "amount": 32, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "قهوة 32 ريال", "label": {"expenses": [{"item": "قهوة", "amount": 32, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "سجل فواكه 15 البارحة", "label": {"expenses": [{"item": "فواكه", "amount": 15, "category": "بقالة", "when": "أمس"}]}}
+{"text": "اشتراك نتفلكس بثلاثين SAR البارحة", "label": {"expenses": [{"item": "اشتراك نتفلكس", "amount": 30, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "اشتراك نتفلكس ب33 ر.س امس", "label": {"expenses": [{"item": "اشتراك نتفلكس", "amount": 33, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "صرفت 232 SAR على ثوب قبل أمس", "label": {"expenses": [{"item": "ثوب", "amount": 232, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "اشتريت دواء بخمسة وعشرين ريال قبل أمس", "label": {"expenses": [{"item": "دواء", "amount": 25, "category": "صحة", "when": "قبل أمس"}]}}
+{"text": "كلفني كي الملابس ١٠ البارحة", "label": {"expenses": [{"item": "كي الملابس", "amount": 10, "category": "أخرى", "when": "أمس"}]}}
+{"text": "اشتريت سبانش لاتيه ب29 SAR أول أمس", "label": {"expenses": [{"item": "سبانش لاتيه", "amount": 29, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "سجل قهوة مختصة خمسطعش ريال أمس", "label": {"expenses": [{"item": "قهوة مختصة", "amount": 15, "category": "قهوة", "when": "أمس"}]}}
+{"text": "راحت 55 على بنزين", "label": {"expenses": [{"item": "بنزين", "amount": 55, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "ناوي أشتري موقف ب152 الأسبوع الجاي", "label": {"expenses": []}}
+{"text": "حاسبت هدية ب٢٨٥ ريال سعودي", "label": {"expenses": [{"item": "هدية", "amount": 285, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "حاسبت فاتورة الكهرباء ب231 ريال أول أمس", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 231, "category": "فواتير", "when": "قبل أمس"}]}}
+{"text": "أبي أشتري جوال ب59 ريال", "label": {"expenses": []}}
+{"text": "ناوي أشتري شاي كرك بعشرين ريال الأسبوع الجاي", "label": {"expenses": []}}
+{"text": "كلفني فواكه ١٥ ر.س أمس", "label": {"expenses": [{"item": "فواكه", "amount": 15, "category": "بقالة", "when": "أمس"}]}}
+{"text": "سجل تحليل دم 390 ريال اليوم", "label": {"expenses": [{"item": "تحليل دم", "amount": 390, "category": "صحة", "when": "اليوم"}]}}
+{"text": "اشتريت كبسة ب173 ريال أول أمس", "label": {"expenses": [{"item": "كبسة", "amount": 173, "category": "مطاعم", "when": "قبل أمس"}]}}
+{"text": "طلع علي فاتورة الكهرباء ٤٩٣ SAR أول أمس", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 493, "category": "فواتير", "when": "قبل أمس"}]}}
+{"text": "صرفت خمس مية ريال على عطر", "label": {"expenses": [{"item": "عطر", "amount": 500, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "طلع علي ثوب 265 ريال الحين و طلع علي كبسة ١٥٢ ريال أول أمس", "label": {"expenses": [{"item": "ثوب", "amount": 265, "category": "تسوق", "when": "اليوم"}, {"item": "كبسة", "amount": 152, "category": "مطاعم", "when": "قبل أمس"}]}}
+{"text": "دفعت 59 ريال سعودي كي الملابس اليوم", "label": {"expenses": [{"item": "كي الملابس", "amount": 59, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "صرفت مية وخمسين ر.س على ثوب امس", "label": {"expenses": [{"item": "ثوب", "amount": 150, "category": "تسوق", "when": "أمس"}]}}
+{"text": "حاسبت خضار ب٤٨ ر.س اليوم", "label": {"expenses": [{"item": "خضار", "amount": 48, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "كم سعر فلات وايت؟", "label": {"expenses": []}}
+{"text": "راحت ٧٧ على حلاق امس", "label": {"expenses": [{"item": "حلاق", "amount": 77, "category": "أخرى", "when": "أمس"}]}}
+{"text": "كلفني خضار 51", "label": {"expenses": [{"item": "خضار", "amount": 51, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "عبيت بنزين ب65 ريال أمس", "label": {"expenses": [{"item": "بنزين", "amount": 65, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "حاسبت مقاضي البيت ب78", "label": {"expenses": [{"item": "مقاضي البيت", "amount": 78, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "امس اشتريت قهوة بعشرة SAR، وطلع علي فواكه 57 ريال امس", "label": {"expenses": [{"item": "قهوة", "amount": 10, "category": "قهوة", "when": "أمس"}, {"item": "فواكه", "amount": 57, "category": "بقالة", "when": "أمس"}]}}
+{"text": "اشتريت شاي كرك ب٢ ريال أمس، وطلع علي دواء ١١ SAR قبل أمس", "label": {"expenses": [{"item": "شاي كرك", "amount": 2, "category": "قهوة", "when": "أمس"}, {"item": "دواء", "amount": 11, "category": "صحة", "when": "قبل أمس"}]}}
+{"text": "كلفني عشا مية ريال أول أمس و فيتامينات ب133 ريال", "label": {"expenses": [{"item": "عشا", "amount": 100, "category": "مطاعم", "when": "قبل أمس"}, {"item": "فيتامينات", "amount": 133, "category": "صحة", "when": "اليوم"}]}}
+{"text": "كم سعر تذاكر مباراة؟", "label": {"expenses": []}}
+{"text": "صيدلية ب137 ريال البارحة", "label": {"expenses": [{"item": "صيدلية", "amount": 137, "category": "صحة", "when": "أمس"}]}}
+{"text": "تقهويت بخمسة وعشرين ريال أول أمس", "label": {"expenses": [{"item": "قهوة", "amount": 25, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "أمس دفعت حق غدا 23 SAR، وحاسبت بولينج بستين الحين", "label": {"expenses": [{"item": "غدا", "amount": 23, "category": "مطاعم", "when": "أمس"}, {"item": "بولينج", "amount": 60, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "حاسبت جزمة ب988 اليوم", "label": {"expenses": [{"item": "جزمة", "amount": 988, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "تغديت ب95 اليوم و دفعت 137 ريال سعودي مندي أول أمس", "label": {"expenses": [{"item": "غدا", "amount": 95, "category": "مطاعم", "when": "اليوم"}, {"item": "مندي", "amount": 137, "category": "مطاعم", "when": "قبل أمس"}]}}
+{"text": "ركبت أوبر بسبعين ريال امس", "label": {"expenses": [{"item": "أوبر", "amount": 70, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "دفعت ثلاث مية ر.س سماعة", "label": {"expenses": [{"item": "سماعة", "amount": 300, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "امس اشتريت بقالة بثلاث مية ر.س", "label": {"expenses": [{"item": "بقالة", "amount": 300, "category": "بقالة", "when": "أمس"}]}}
+{"text": "اليوم دفعت حق كي الملابس خمسة وعشرين ريال", "label": {"expenses": [{"item": "كي الملابس", "amount": 25, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "اشتريت موية بعشرين ريال", "label": {"expenses": [{"item": "موية", "amount": 20, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "حلاق 52", "label": {"expenses": [{"item": "حلاق", "amount": 52, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "فاتورة النت ٨٨١ ريال سعودي", "label": {"expenses": [{"item": "فاتورة النت", "amount": 881, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "قبل أمس اشتريت سماعة بمية", "label": {"expenses": [{"item": "سماعة", "amount": 100, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "راحت ١٥ ريال سعودي على تذكرة مترو أمس", "label": {"expenses": [{"item": "تذكرة مترو", "amount": 15, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "سددت فاتورة الكهرباء ٧٠١ ريال أول أمس و طلع علي حلاق 31 ريال سعودي", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 701, "category": "فواتير", "when": "قبل أمس"}, {"item": "حلاق", "amount": 31, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "صرفت 31 ريال على آيس لاتيه أمس", "label": {"expenses": [{"item": "آيس لاتيه", "amount": 31, "category": "قهوة", "when": "أمس"}]}}
+{"text": "دفعت 825 ريال فاتورة الكهرباء أمس", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 825, "category": "فواتير", "when": "أمس"}]}}
+{"text": "راحت 17 ريال سعودي على تحليل دم اليوم", "label": {"expenses": [{"item": "تحليل دم", "amount": 17, "category": "صحة", "when": "اليوم"}]}}
+{"text": "طلع علي حلاق ٧٥ ريال", "label": {"expenses": [{"item": "حلاق", "amount": 75, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "سددت فاتورة الكهرباء 850 ريال البارحة و كلفني تبرع سبعين SAR", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 850, "category": "فواتير", "when": "أمس"}, {"item": "تبرع", "amount": 70, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "كشفية 51 ريال", "label": {"expenses": [{"item": "كشفية", "amount": 51, "category": "صحة", "when": "اليوم"}]}}
+{"text": "سجل تذاكر مباراة أربعين ريال أمس", "label": {"expenses": [{"item": "تذاكر مباراة", "amount": 40, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "أمس دفعت حق تحليل دم 132 ر.س و شحنت رصيد ب72 ريال امس", "label": {"expenses": [{"item": "تحليل دم", "amount": 132, "category": "صحة", "when": "أمس"}, {"item": "شحن رصيد", "amount": 72, "category": "فواتير", "when": "أمس"}]}}
+{"text": "شحنت رصيد بعشرين ر.س البارحة", "label": {"expenses": [{"item": "شحن رصيد", "amount": 20, "category": "فواتير", "when": "أمس"}]}}
+{"text": "حاسبت خبز ب3 ريال سعودي البارحة، وأول أمس دفعت حق اشتراك نتفلكس 28 ريال", "label": {"expenses": [{"item": "خبز", "amount": 3, "category": "بقالة", "when": "أمس"}, {"item": "اشتراك نتفلكس", "amount": 28, "category": "ترفيه", "when": "قبل أمس"}]}}
+{"text": "دفعت 55 ر.س كي الملابس البارحة", "label": {"expenses": [{"item": "كي الملابس", "amount": 55, "category": "أخرى", "when": "أمس"}]}}
+{"text": "سجل ثوب ثلاث مية ريال سعودي اليوم", "label": {"expenses": [{"item": "ثوب", "amount": 300, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "دفعت خمسة وعشرين ريال موية", "label": {"expenses": [{"item": "موية", "amount": 25, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "لو اشتريت كابتشينو ب١٠ SAR يكون غالي؟", "label": {"expenses": []}}
+{"text": "قبل أمس دفعت حق دلة قهوة 36 ريال سعودي", "label": {"expenses": [{"item": "دلة قهوة", "amount": 36, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "كلفني آيس لاتيه عشرين قبل أمس", "label": {"expenses": [{"item": "آيس لاتيه", "amount": 20, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "سجل مقاضي البيت 108 ريال سعودي الحين و كلفني أوبر ٤٣ SAR أول أمس", "label": {"expenses": [{"item": "مقاضي البيت", "amount": 108, "category": "بقالة", "when": "اليوم"}, {"item": "أوبر", "amount": 43, "category": "مواصلات", "when": "قبل أمس"}]}}
+{"text": "طلع علي جزمة ١٤٤٨ ريال قبل أمس", "label": {"expenses": [{"item": "جزمة", "amount": 1448, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "دفعت ١٣ SAR موقف البارحة", "label": {"expenses": [{"item": "موقف", "amount": 13, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "صرفت ٧٣١ ريال على ساعة أمس", "label": {"expenses": [{"item": "ساعة", "amount": 731, "category": "تسوق", "when": "أمس"}]}}
+{"text": "حاسبت بنزين ب١٢٦ ريال امس", "label": {"expenses": [{"item": "بنزين", "amount": 126, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "سماعة 1154 ريال سعودي", "label": {"expenses": [{"item": "سماعة", "amount": 1154, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "اشتريت ساعة ب1261 SAR", "label": {"expenses": [{"item": "ساعة", "amount": 1261, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "كلفني حلاق 67 ريال سعودي أمس", "label": {"expenses": [{"item": "حلاق", "amount": 67, "category": "أخرى", "when": "أمس"}]}}
+{"text": "عبيت بنزين ب١٣١ ريال البارحة", "label": {"expenses": [{"item": "بنزين", "amount": 131, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "راحت مية ريال على سينما قبل أمس", "label": {"expenses": [{"item": "سينما", "amount": 100, "category": "ترفيه", "when": "قبل أمس"}]}}
+{"text": "صرفت 20 ريال سعودي على بنادول البارحة", "label": {"expenses": [{"item": "بنادول", "amount": 20, "category": "صحة", "when": "أمس"}]}}
+{"text": "سجل شماغ ٣٢٥ أول أمس", "label": {"expenses": [{"item": "شماغ", "amount": 325, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "ناوي أشتري أوبر بسبعين ريال الأسبوع الجاي", "label": {"expenses": []}}
+{"text": "سجل كبسة خمسة وعشرين ريال قبل أمس", "label": {"expenses": [{"item": "كبسة", "amount": 25, "category": "مطاعم", "when": "قبل أمس"}]}}
+{"text": "راحت أربعين ريال على فاتورة النت أمس و اشتريت فيتامينات ب٢٢٨ ريال امس", "label": {"expenses": [{"item": "فاتورة النت", "amount": 40, "category": "فواتير", "when": "أمس"}, {"item": "فيتامينات", "amount": 228, "category": "صحة", "when": "أمس"}]}}
+{"text": "دفعت 435 ريال تبرع الحين", "label": {"expenses": [{"item": "تبرع", "amount": 435, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "خويي دفع عني آيس لاتيه", "label": {"expenses": []}}
+{"text": "دفعت مية وخمسين SAR تاكسي أول أمس", "label": {"expenses": [{"item": "تاكسي", "amount": 150, "category": "مواصلات", "when": "قبل أمس"}]}}
+{"text": "دفعت ٣٩ ر.س أوبر قبل أمس", "label": {"expenses": [{"item": "أوبر", "amount": 39, "category": "مواصلات", "when": "قبل أمس"}]}}
+{"text": "طلع علي كي الملابس ٢٢ ريال قبل أمس", "label": {"expenses": [{"item": "كي الملابس", "amount": 22, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "حاسبت فاتورة الجوال ب643 ريال امس", "label": {"expenses": [{"item": "فاتورة الجوال", "amount": 643, "category": "فواتير", "when": "أمس"}]}}
+{"text": "سجل تذاكر مباراة ٢٨٥ ر.س الحين", "label": {"expenses": [{"item": "تذاكر مباراة", "amount": 285, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "لاتيه 22 ريال سعودي وبعدين حاسبت دواء ب١٥٠ ريال أول أمس", "label": {"expenses": [{"item": "لاتيه", "amount": 22, "category": "قهوة", "when": "اليوم"}, {"item": "دواء", "amount": 150, "category": "صحة", "when": "قبل أمس"}]}}
+{"text": "سددت فاتورة الكهرباء 414 SAR قبل أمس", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 414, "category": "فواتير", "when": "قبل أمس"}]}}
+{"text": "دفعت 44 ر.س غسيل السيارة", "label": {"expenses": [{"item": "غسيل السيارة", "amount": 44, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "كلفني تذاكر مباراة 30 ريال سعودي البارحة", "label": {"expenses": [{"item": "تذاكر مباراة", "amount": 30, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "دلة قهوة ٤١ SAR", "label": {"expenses": [{"item": "دلة قهوة", "amount": 41, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "رجعوا لي 746 ريال من فاتورة الجوال", "label": {"expenses": []}}
+{"text": "اشتريت مقاضي البيت ب١٤٠ ريال اليوم وبعدين أول أمس دفعت حق هدية ١٠٨ SAR", "label": {"expenses": [{"item": "مقاضي البيت", "amount": 140, "category": "بقالة", "when": "اليوم"}, {"item": "هدية", "amount": 108, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "سجل حليب ٥ ريال", "label": {"expenses": [{"item": "حليب", "amount": 5, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "قبل أمس اشتريت فواكه ب٥٦ ريال و كشفية 27 ريال سعودي", "label": {"expenses": [{"item": "فواكه", "amount": 56, "category": "بقالة", "when": "قبل أمس"}, {"item": "كشفية", "amount": 27, "category": "صحة", "when": "اليوم"}]}}
+{"text": "طلع علي بقالة 22 و دفعت 281 SAR بولينج", "label": {"expenses": [{"item": "بقالة", "amount": 22, "category": "بقالة", "when": "اليوم"}, {"item": "بولينج", "amount": 281, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "اشتريت بنادول ب5 البارحة", "label": {"expenses": [{"item": "بنادول", "amount": 5, "category": "صحة", "when": "أمس"}]}}
+{"text": "راحت 158 ريال على غسيل السيارة الحين", "label": {"expenses": [{"item": "غسيل السيارة", "amount": 158, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "عبيت بنزين ب١٣٥ ريال البارحة", "label": {"expenses": [{"item": "بنزين", "amount": 135, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "كلفني حلاق 51 ريال", "label": {"expenses": [{"item": "حلاق", "amount": 51, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "صرفت ٢٥ ريال على دلة قهوة الحين", "label": {"expenses": [{"item": "دلة قهوة", "amount": 25, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "شحنت رصيد ب146 ريال امس", "label": {"expenses": [{"item": "شحن رصيد", "amount": 146, "category": "فواتير", "when": "أمس"}]}}
+{"text": "استلمت راتبي 560 ر.س", "label": {"expenses": []}}
+{"text": "طلع علي فاتورة الموية ١٦١ SAR الحين", "label": {"expenses": [{"item": "فاتورة الموية", "amount": 161, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "أمس دفعت حق بروستد 45.5 ريال", "label": {"expenses": [{"item": "بروستد", "amount": 45.5, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "دفعت خمسطعش عشا أمس", "label": {"expenses": [{"item": "عشا", "amount": 15, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "طلع علي دلة قهوة ثلاثين ريال سعودي اليوم", "label": {"expenses": [{"item": "دلة قهوة", "amount": 30, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "صرفت خمسة وعشرين SAR على حلاق أول أمس وبعدين عبيت بنزين ب108 ريال سعودي اليوم", "label": {"expenses": [{"item": "حلاق", "amount": 25, "category": "أخرى", "when": "قبل أمس"}, {"item": "بنزين", "amount": 108, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "دفعت 180 ريال سينما قبل أمس", "label": {"expenses": [{"item": "سينما", "amount": 180, "category": "ترفيه", "when": "قبل أمس"}]}}
+{"text": "قبل أمس دفعت حق بلايستيشن 81 ريال", "label": {"expenses": [{"item": "بلايستيشن", "amount": 81, "category": "ترفيه", "when": "قبل أمس"}]}}
+{"text": "كلفني تذاكر مباراة 70 ريال البارحة", "label": {"expenses": [{"item": "تذاكر مباراة", "amount": 70, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "كابتشينو ب19 ريال الحين", "label": {"expenses": [{"item": "كابتشينو", "amount": 19, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "أول أمس اشتريت شنطة بمية وخمسين ريال سعودي", "label": {"expenses": [{"item": "شنطة", "amount": 150, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "كلفني عطر ٧٧٥ ر.س أمس", "label": {"expenses": [{"item": "عطر", "amount": 775, "category": "تسوق", "when": "أمس"}]}}
+{"text": "سبانش لاتيه ب٩ ريال قبل أمس", "label": {"expenses": [{"item": "سبانش لاتيه", "amount": 9, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "سجل ثوب 391 ريال الحين", "label": {"expenses": [{"item": "ثوب", "amount": 391, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "امس اشتريت خضار بخمسطعش ر.س", "label": {"expenses": [{"item": "خضار", "amount": 15, "category": "بقالة", "when": "أمس"}]}}
+{"text": "طلع علي كي الملابس 14 ريال قبل أمس", "label": {"expenses": [{"item": "كي الملابس", "amount": 14, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "فاتورة النت 67", "label": {"expenses": [{"item": "فاتورة النت", "amount": 67, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "دفعت 198 ريال كشفية البارحة", "label": {"expenses": [{"item": "كشفية", "amount": 198, "category": "صحة", "when": "أمس"}]}}
+{"text": "اشتريت حليب بعشرة ريال الحين", "label": {"expenses": [{"item": "حليب", "amount": 10, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "أمس اشتريت كبسة بخمسطعش SAR", "label": {"expenses": [{"item": "كبسة", "amount": 15, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "سجل قهوة مختصة ١٠", "label": {"expenses": [{"item": "قهوة مختصة", "amount": 10, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "سجل كريم أربعين SAR اليوم", "label": {"expenses": [{"item": "كريم", "amount": 40, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "قهوة مختصة ب29.5 ريال الحين", "label": {"expenses": [{"item": "قهوة مختصة", "amount": 29.5, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "سجل بقالة 381 SAR الحين", "label": {"expenses": [{"item": "بقالة", "amount": 381, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "تغديت ب205 ر.س أمس", "label": {"expenses": [{"item": "غدا", "amount": 205, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "موقف ٢٧٫٥ ريال", "label": {"expenses": [{"item": "موقف", "amount": 27.5, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "تقهويت ب20 ريال سعودي امس", "label": {"expenses": [{"item": "قهوة", "amount": 20, "category": "قهوة", "when": "أمس"}]}}
+{"text": "ركبت أوبر ب٣١ ر.س", "label": {"expenses": [{"item": "أوبر", "amount": 31, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "فاتورة الموية ب٢٣٨ ر.س أول أمس وبعدين صرفت ٢٦٢ على سينما اليوم", "label": {"expenses": [{"item": "فاتورة الموية", "amount": 238, "category": "فواتير", "when": "قبل أمس"}, {"item": "سينما", "amount": 262, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "رجعوا لي مية ريال سعودي من موقف", "label": {"expenses": []}}
+{"text": "ملابس خمس مية", "label": {"expenses": [{"item": "ملابس", "amount": 500, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "موية ب23 ريال سعودي امس وتقهويت بخمسطعش ريال", "label": {"expenses": [{"item": "موية", "amount": 23, "category": "بقالة", "when": "أمس"}, {"item": "قهوة", "amount": 15, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "سجل موكا 26 ريال سعودي أول أمس", "label": {"expenses": [{"item": "موكا", "amount": 26, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "دفعت ٤١ ر.س حلاق البارحة", "label": {"expenses": [{"item": "حلاق", "amount": 41, "category": "أخرى", "when": "أمس"}]}}
+{"text": "حاسبت كريم ب٨٨ ريال امس", "label": {"expenses": [{"item": "كريم", "amount": 88, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "كلفني مندي 130 امس، وساعة ب628 ريال سعودي قبل أمس", "label": {"expenses": [{"item": "مندي", "amount": 130, "category": "مطاعم", "when": "أمس"}, {"item": "ساعة", "amount": 628, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "تغديت ب126 SAR امس", "label": {"expenses": [{"item": "غدا", "amount": 126, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "طلع علي شنطة سبعين ريال أول أمس", "label": {"expenses": [{"item": "شنطة", "amount": 70, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "رجعوا لي ٢٣٠ ريال من بنادول", "label": {"expenses": []}}
+{"text": "طلع علي مقاضي البيت مية وخمسين ريال أمس، ودفعت 215 ريال كبسة اليوم", "label": {"expenses": [{"item": "مقاضي البيت", "amount": 150, "category": "بقالة", "when": "أمس"}, {"item": "كبسة", "amount": 215, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "سجل كشفية 110 ريال سعودي", "label": {"expenses": [{"item": "كشفية", "amount": 110, "category": "صحة", "when": "اليوم"}]}}
+{"text": "طلع علي جزمة ٤٣٥ ريال أمس", "label": {"expenses": [{"item": "جزمة", "amount": 435, "category": "تسوق", "when": "أمس"}]}}
+{"text": "ناوي أشتري تذكرة مترو ب٩٢ ر.س الأسبوع الجاي", "label": {"expenses": []}}
+{"text": "سبانش لاتيه بعشرين ريال قبل أمس", "label": {"expenses": [{"item": "سبانش لاتيه", "amount": 20, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "ناوي أشتري موكا ب29 ريال الأسبوع الجاي", "label": {"expenses": []}}
+{"text": "حاسبت صيدلية ب١٧٠ أول أمس", "label": {"expenses": [{"item": "صيدلية", "amount": 170, "category": "صحة", "when": "قبل أمس"}]}}
+{"text": "كلفني برجر 168 ريال قبل أمس", "label": {"expenses": [{"item": "برجر", "amount": 168, "category": "مطاعم", "when": "قبل أمس"}]}}
+{"text": "الحين اشتريت قهوة بعشرة ريال", "label": {"expenses": [{"item": "قهوة", "amount": 10, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "بكرة بدفع خمسين SAR بولينج", "label": {"expenses": []}}
+{"text": "البارحة دفعت حق موكا عشرة ريال", "label": {"expenses": [{"item": "موكا", "amount": 10, "category": "قهوة", "when": "أمس"}]}}
+{"text": "أول أمس اشتريت سماعة بمية ريال", "label": {"expenses": [{"item": "سماعة", "amount": 100, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "ركبت أوبر بخمسين ريال", "label": {"expenses": [{"item": "أوبر", "amount": 50, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "حاسبت سماعة ب1017 ريال الحين", "label": {"expenses": [{"item": "سماعة", "amount": 1017, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "صرفت ثلاثين ريال سعودي على موية الحين", "label": {"expenses": [{"item": "موية", "amount": 30, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "راحت خمسين ريال على بولينج امس", "label": {"expenses": [{"item": "بولينج", "amount": 50, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "دفعت عشرة ريال خضار الحين", "label": {"expenses": [{"item": "خضار", "amount": 10, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "تقهويت بخمسطعش ريال أول أمس", "label": {"expenses": [{"item": "قهوة", "amount": 15, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "الحين دفعت حق بلايستيشن 193 ريال", "label": {"expenses": [{"item": "بلايستيشن", "amount": 193, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "تقهويت بعشرين ريال امس", "label": {"expenses": [{"item": "قهوة", "amount": 20, "category": "قهوة", "when": "أمس"}]}}
+{"text": "كلفني دلة قهوة 25 ريال امس", "label": {"expenses": [{"item": "دلة قهوة", "amount": 25, "category": "قهوة", "when": "أمس"}]}}
+{"text": "موية 17 ريال", "label": {"expenses": [{"item": "موية", "amount": 17, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "دفعت 202 ريال بولينج الحين", "label": {"expenses": [{"item": "بولينج", "amount": 202, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "دفعت 109 SAR تحليل دم أمس", "label": {"expenses": [{"item": "تحليل دم", "amount": 109, "category": "صحة", "when": "أمس"}]}}
+{"text": "موقف ب١٨ ريال أمس", "label": {"expenses": [{"item": "موقف", "amount": 18, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "صرفت 25.5 ريال سعودي على شاورما الحين", "label": {"expenses": [{"item": "شاورما", "amount": 25.5, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "تقهويت بثلاثين أمس وكلفني هدية خمسة وعشرين ريال أول أمس", "label": {"expenses": [{"item": "قهوة", "amount": 30, "category": "قهوة", "when": "أمس"}, {"item": "هدية", "amount": 25, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "صرفت 98 SAR على تاكسي أول أمس", "label": {"expenses": [{"item": "تاكسي", "amount": 98, "category": "مواصلات", "when": "قبل أمس"}]}}
+{"text": "دفعت 79 برجر امس", "label": {"expenses": [{"item": "برجر", "amount": 79, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "كلفني برجر 200 SAR أمس و فطرت بستين ريال", "label": {"expenses": [{"item": "برجر", "amount": 200, "category": "مطاعم", "when": "أمس"}, {"item": "فطور", "amount": 60, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "سماعة 508 ريال", "label": {"expenses": [{"item": "سماعة", "amount": 508, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "راحت 43 ريال على كي الملابس أول أمس", "label": {"expenses": [{"item": "كي الملابس", "amount": 43, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "دواء 128 ريال وقبل أمس دفعت حق هدية أربعين ريال", "label": {"expenses": [{"item": "دواء", "amount": 128, "category": "صحة", "when": "اليوم"}, {"item": "هدية", "amount": 40, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "حاسبت بلايستيشن ب87 ريال سعودي قبل أمس و ركبت أوبر ب14 ر.س البارحة", "label": {"expenses": [{"item": "بلايستيشن", "amount": 87, "category": "ترفيه", "when": "قبل أمس"}, {"item": "أوبر", "amount": 14, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "دفعت 49 ريال خضار الحين", "label": {"expenses": [{"item": "خضار", "amount": 49, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "راحت 33 على كي الملابس أول أمس", "label": {"expenses": [{"item": "كي الملابس", "amount": 33, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "ناوي أشتري فيتامينات ب345 الأسبوع الجاي", "label": {"expenses": []}}
+{"text": "صرفت 144 ريال على هدية أمس", "label": {"expenses": [{"item": "هدية", "amount": 144, "category": "أخرى", "when": "أمس"}]}}
+{"text": "سجل شحن رصيد ثلاثين SAR امس", "label": {"expenses": [{"item": "شحن رصيد", "amount": 30, "category": "فواتير", "when": "أمس"}]}}
+{"text": "تقهويت ب٣٥ ر.س أمس", "label": {"expenses": [{"item": "قهوة", "amount": 35, "category": "قهوة", "when": "أمس"}]}}
+{"text": "صرفت 60 ر.س على رز", "label": {"expenses": [{"item": "رز", "amount": 60, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "حاسبت قهوة مختصة ب12 ر.س أمس", "label": {"expenses": [{"item": "قهوة مختصة", "amount": 12, "category": "قهوة", "when": "أمس"}]}}
+{"text": "صرفت 507 ر.س على فاتورة الجوال امس", "label": {"expenses": [{"item": "فاتورة الجوال", "amount": 507, "category": "فواتير", "when": "أمس"}]}}
+{"text": "هدية ب127 ر.س البارحة وبعدين صرفت 77 على حلاق أمس", "label": {"expenses": [{"item": "هدية", "amount": 127, "category": "أخرى", "when": "أمس"}, {"item": "حلاق", "amount": 77, "category": "أخرى", "when": "أمس"}]}}
+{"text": "عبيت بنزين ب٤٠ ريال الحين وبعدين دفعت 138 ريال فاتورة الموية اليوم", "label": {"expenses": [{"item": "بنزين", "amount": 40, "category": "مواصلات", "when": "اليوم"}, {"item": "فاتورة الموية", "amount": 138, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "حاسبت كي الملابس بخمسة وعشرين قبل أمس", "label": {"expenses": [{"item": "كي الملابس", "amount": 25, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "راحت 19 ريال على موقف قبل أمس", "label": {"expenses": [{"item": "موقف", "amount": 19, "category": "مواصلات", "when": "قبل أمس"}]}}
+{"text": "أمس دفعت حق شنطة ستين ريال سعودي", "label": {"expenses": [{"item": "شنطة", "amount": 60, "category": "تسوق", "when": "أمس"}]}}
+{"text": "دفعت 70 ريال حلاق البارحة", "label": {"expenses": [{"item": "حلاق", "amount": 70, "category": "أخرى", "when": "أمس"}]}}
+{"text": "أمس دفعت حق حليب خمسطعش", "label": {"expenses": [{"item": "حليب", "amount": 15, "category": "بقالة", "when": "أمس"}]}}
+{"text": "اشتريت آيس لاتيه ب19 ريال امس", "label": {"expenses": [{"item": "آيس لاتيه", "amount": 19, "category": "قهوة", "when": "أمس"}]}}
+{"text": "أبي أشتري جوال ب127 ريال", "label": {"expenses": []}}
+{"text": "دفعت ١٤٤ صيدلية اليوم", "label": {"expenses": [{"item": "صيدلية", "amount": 144, "category": "صحة", "when": "اليوم"}]}}
+{"text": "تبرع ب39 SAR", "label": {"expenses": [{"item": "تبرع", "amount": 39, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "اليوم دفعت حق فيتامينات 305 ريال سعودي وبعدين خبز ب١٣ ريال الحين", "label": {"expenses": [{"item": "فيتامينات", "amount": 305, "category": "صحة", "when": "اليوم"}, {"item": "خبز", "amount": 13, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "دفعت عشرين غدا اليوم", "label": {"expenses": [{"item": "غدا", "amount": 20, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "البارحة دفعت حق غدا ١٢٥ ريال", "label": {"expenses": [{"item": "غدا", "amount": 125, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "دفعت 184 ريال سماعة قبل أمس", "label": {"expenses": [{"item": "سماعة", "amount": 184, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "حاسبت صيدلية ب273 ريال سعودي اليوم", "label": {"expenses": [{"item": "صيدلية", "amount": 273, "category": "صحة", "when": "اليوم"}]}}
+{"text": "شحنت رصيد ب20 ريال أمس", "label": {"expenses": [{"item": "شحن رصيد", "amount": 20, "category": "فواتير", "when": "أمس"}]}}
+{"text": "كشفية ب41 SAR أمس", "label": {"expenses": [{"item": "كشفية", "amount": 41, "category": "صحة", "when": "أمس"}]}}
+{"text": "امس دفعت حق فلافل 24 ريال سعودي", "label": {"expenses": [{"item": "فلافل", "amount": 24, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "حاسبت غدا بخمسطعش ريال أمس", "label": {"expenses": [{"item": "غدا", "amount": 15, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "صرفت 13 ر.س على خبز البارحة", "label": {"expenses": [{"item": "خبز", "amount": 13, "category": "بقالة", "when": "أمس"}]}}
+{"text": "تقهويت ب٢٣ ريال امس", "label": {"expenses": [{"item": "قهوة", "amount": 23, "category": "قهوة", "when": "أمس"}]}}
+{"text": "استلمت راتبي خمسة وعشرين ريال", "label": {"expenses": []}}
+{"text": "الحين دفعت حق بنادول ١٠ ريال", "label": {"expenses": [{"item": "بنادول", "amount": 10, "category": "صحة", "when": "اليوم"}]}}
+{"text": "بيتزا ب٤٥ SAR الحين", "label": {"expenses": [{"item": "بيتزا", "amount": 45, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "تعشيت بخمسة وعشرين ريال سعودي أول أمس", "label": {"expenses": [{"item": "عشا", "amount": 25, "category": "مطاعم", "when": "قبل أمس"}]}}
+{"text": "اشتريت جزمة ب١٤٥١ ريال أول أمس", "label": {"expenses": [{"item": "جزمة", "amount": 1451, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "دفعت ٨٧ ريال سعودي تبرع", "label": {"expenses": [{"item": "تبرع", "amount": 87, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "دفعت 27 موقف الحين", "label": {"expenses": [{"item": "موقف", "amount": 27, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "كم سعر صيدلية؟", "label": {"expenses": []}}
+{"text": "دواء ب114 ريال اليوم", "label": {"expenses": [{"item": "دواء", "amount": 114, "category": "صحة", "when": "اليوم"}]}}
+{"text": "ركبت أوبر ب80 الحين", "label": {"expenses": [{"item": "أوبر", "amount": 80, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "صرفت 80 SAR على تذاكر مباراة أول أمس", "label": {"expenses": [{"item": "تذاكر مباراة", "amount": 80, "category": "ترفيه", "when": "قبل أمس"}]}}
+{"text": "صرفت مية وخمسين ر.س على تذاكر مباراة الحين", "label": {"expenses": [{"item": "تذاكر مباراة", "amount": 150, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "مندي 177 ريال", "label": {"expenses": [{"item": "مندي", "amount": 177, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "صرفت 77 SAR على رز امس", "label": {"expenses": [{"item": "رز", "amount": 77, "category": "بقالة", "when": "أمس"}]}}
+{"text": "سجل بولينج خمسين", "label": {"expenses": [{"item": "بولينج", "amount": 50, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "فطرت ب23", "label": {"expenses": [{"item": "فطور", "amount": 23, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "حاسبت أوبر بثلاثين امس", "label": {"expenses": [{"item": "أوبر", "amount": 30, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "سجل شنطة ٢٧٠ ر.س امس، وكلفني قهوة مختصة ٢٩ ريال قبل أمس", "label": {"expenses": [{"item": "شنطة", "amount": 270, "category": "تسوق", "when": "أمس"}, {"item": "قهوة مختصة", "amount": 29, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "راحت مية ريال سعودي على تذاكر مباراة أمس", "label": {"expenses": [{"item": "تذاكر مباراة", "amount": 100, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "البارحة دفعت حق فواكه ١٥ ريال", "label": {"expenses": [{"item": "فواكه", "amount": 15, "category": "بقالة", "when": "أمس"}]}}
+{"text": "حاسبت بنادول ب١٢ ريال أول أمس", "label": {"expenses": [{"item": "بنادول", "amount": 12, "category": "صحة", "when": "قبل أمس"}]}}
+{"text": "راحت 53.5 ريال على اشتراك نتفلكس اليوم، وحاسبت فاتورة النت ب142 ريال قبل أمس", "label": {"expenses": [{"item": "اشتراك نتفلكس", "amount": 53.5, "category": "ترفيه", "when": "اليوم"}, {"item": "فاتورة النت", "amount": 142, "category": "فواتير", "when": "قبل أمس"}]}}
+{"text": "اشتريت تذاكر مباراة ب127", "label": {"expenses": [{"item": "تذاكر مباراة", "amount": 127, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "دفعت 7 SAR موقف أول أمس", "label": {"expenses": [{"item": "موقف", "amount": 7, "category": "مواصلات", "when": "قبل أمس"}]}}
+{"text": "ركبت أوبر ب37 ريال قبل أمس", "label": {"expenses": [{"item": "أوبر", "amount": 37, "category": "مواصلات", "when": "قبل أمس"}]}}
+{"text": "جاني تحويل ٣٥٠ ريال سعودي من أخوي", "label": {"expenses": []}}
+{"text": "صرفت 191 ريال على ثوب امس", "label": {"expenses": [{"item": "ثوب", "amount": 191, "category": "تسوق", "when": "أمس"}]}}
+{"text": "جاني تحويل مية ريال من أخوي", "label": {"expenses": []}}
+{"text": "طلع علي شماغ 104 أول أمس", "label": {"expenses": [{"item": "شماغ", "amount": 104, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "أول أمس دفعت حق هدية 144", "label": {"expenses": [{"item": "هدية", "amount": 144, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "اشتريت مقاضي البيت ب131 ريال", "label": {"expenses": [{"item": "مقاضي البيت", "amount": 131, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "ركبت أوبر ب١٩ أمس", "label": {"expenses": [{"item": "أوبر", "amount": 19, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "دفعت 160 ريال سينما أول أمس", "label": {"expenses": [{"item": "سينما", "amount": 160, "category": "ترفيه", "when": "قبل أمس"}]}}
+{"text": "حاسبت خضار ب40 البارحة", "label": {"expenses": [{"item": "خضار", "amount": 40, "category": "بقالة", "when": "أمس"}]}}
+{"text": "اليوم دفعت حق هدية 124 ريال وخبز ب7 اليوم", "label": {"expenses": [{"item": "هدية", "amount": 124, "category": "أخرى", "when": "اليوم"}, {"item": "خبز", "amount": 7, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "فطرت ب٤٠ ريال البارحة", "label": {"expenses": [{"item": "فطور", "amount": 40, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "تغديت بخمسين ريال قبل أمس", "label": {"expenses": [{"item": "غدا", "amount": 50, "category": "مطاعم", "when": "قبل أمس"}]}}
+{"text": "آيس لاتيه ب٢٨ أول أمس", "label": {"expenses": [{"item": "آيس لاتيه", "amount": 28, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "سددت فاتورة الكهرباء ٥٨٠ الحين", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 580, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "عبيت بنزين ب١٠٤ أول أمس", "label": {"expenses": [{"item": "بنزين", "amount": 104, "category": "مواصلات", "when": "قبل أمس"}]}}
+{"text": "راحت 142 على غدا", "label": {"expenses": [{"item": "غدا", "amount": 142, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "كلفني بلايستيشن مية وخمسين SAR قبل أمس", "label": {"expenses": [{"item": "بلايستيشن", "amount": 150, "category": "ترفيه", "when": "قبل أمس"}]}}
+{"text": "حلاق 49 ريال", "label": {"expenses": [{"item": "حلاق", "amount": 49, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "دفعت أربعين ريال تبرع أمس و ركبت أوبر بعشرين أول أمس", "label": {"expenses": [{"item": "تبرع", "amount": 40, "category": "أخرى", "when": "أمس"}, {"item": "أوبر", "amount": 20, "category": "مواصلات", "when": "قبل أمس"}]}}
+{"text": "حاسبت فاتورة الجوال بثلاث مية ريال أول أمس", "label": {"expenses": [{"item": "فاتورة الجوال", "amount": 300, "category": "فواتير", "when": "قبل أمس"}]}}
+{"text": "خويي دفع عني أوبر", "label": {"expenses": []}}
+{"text": "رجعوا لي ٢٩٧ ريال سعودي من هدية", "label": {"expenses": []}}
+{"text": "رجعوا لي 137 ريال من تحليل دم", "label": {"expenses": []}}
+{"text": "صرفت ٢٤٠ على كشفية اليوم", "label": {"expenses": [{"item": "كشفية", "amount": 240, "category": "صحة", "when": "اليوم"}]}}
+{"text": "سجل خضار ١١ ريال سعودي", "label": {"expenses": [{"item": "خضار", "amount": 11, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "حاسبت اشتراك نتفلكس ب40 أمس، وكلفني فاتورة الموية 857 ريال البارحة", "label": {"expenses": [{"item": "اشتراك نتفلكس", "amount": 40, "category": "ترفيه", "when": "أمس"}, {"item": "فاتورة الموية", "amount": 857, "category": "فواتير", "when": "أمس"}]}}
+{"text": "دفعت 247 SAR سينما أول أمس", "label": {"expenses": [{"item": "سينما", "amount": 247, "category": "ترفيه", "when": "قبل أمس"}]}}
+{"text": "بقالة ب372 ر.س اليوم", "label": {"expenses": [{"item": "بقالة", "amount": 372, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "الحين اشتريت ساعة بألف ريال سعودي، وطلع علي هدية ٦٦ ريال سعودي الحين", "label": {"expenses": [{"item": "ساعة", "amount": 1000, "category": "تسوق", "when": "اليوم"}, {"item": "هدية", "amount": 66, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "اشتراك نتفلكس ب44 ر.س الحين", "label": {"expenses": [{"item": "اشتراك نتفلكس", "amount": 44, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "راحت 257 ر.س على فاتورة الجوال الحين وبعدين قبل أمس اشتريت تذكرة مترو بخمسطعش SAR", "label": {"expenses": [{"item": "فاتورة الجوال", "amount": 257, "category": "فواتير", "when": "اليوم"}, {"item": "تذكرة مترو", "amount": 15, "category": "مواصلات", "when": "قبل أمس"}]}}
+{"text": "طلع علي بقالة ١٣٣ ريال سعودي البارحة", "label": {"expenses": [{"item": "بقالة", "amount": 133, "category": "بقالة", "when": "أمس"}]}}
+{"text": "دفعت 565 ريال فاتورة النت أمس وحاسبت فواكه ب٤٣ ريال قبل أمس", "label": {"expenses": [{"item": "فاتورة النت", "amount": 565, "category": "فواتير", "when": "أمس"}, {"item": "فواكه", "amount": 43, "category": "بقالة", "when": "قبل أمس"}]}}
+{"text": "تقهويت ب16 SAR امس", "label": {"expenses": [{"item": "قهوة", "amount": 16, "category": "قهوة", "when": "أمس"}]}}
+{"text": "سجل فلافل ٥ SAR امس", "label": {"expenses": [{"item": "فلافل", "amount": 5, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "امس اشتريت دواء ب97 ريال", "label": {"expenses": [{"item": "دواء", "amount": 97, "category": "صحة", "when": "أمس"}]}}
+{"text": "طلع علي آيس لاتيه 14 ريال البارحة", "label": {"expenses": [{"item": "آيس لاتيه", "amount": 14, "category": "قهوة", "when": "أمس"}]}}
+{"text": "تقهويت بخمسة وعشرين ر.س البارحة وحاسبت رز ب41 ريال امس", "label": {"expenses": [{"item": "قهوة", "amount": 25, "category": "قهوة", "when": "أمس"}, {"item": "رز", "amount": 41, "category": "بقالة", "when": "أمس"}]}}
+{"text": "فطرت ب57.5 ريال أول أمس", "label": {"expenses": [{"item": "فطور", "amount": 57.5, "category": "مطاعم", "when": "قبل أمس"}]}}
+{"text": "جاني تحويل 22 ر.س من أخوي", "label": {"expenses": []}}
+{"text": "كلفني حليب 13 ر.س البارحة", "label": {"expenses": [{"item": "حليب", "amount": 13, "category": "بقالة", "when": "أمس"}]}}
+{"text": "تقهويت ب٢٦ ريال سعودي الحين وصرفت ثلاث مية ريال سعودي على كشفية امس", "label": {"expenses": [{"item": "قهوة", "amount": 26, "category": "قهوة", "when": "اليوم"}, {"item": "كشفية", "amount": 300, "category": "صحة", "when": "أمس"}]}}
+{"text": "حاسبت جزمة ب1386 ريال البارحة", "label": {"expenses": [{"item": "جزمة", "amount": 1386, "category": "تسوق", "when": "أمس"}]}}
+{"text": "حلاق ب64 SAR البارحة", "label": {"expenses": [{"item": "حلاق", "amount": 64, "category": "أخرى", "when": "أمس"}]}}
+{"text": "كلفني ملابس ستين ريال سعودي امس", "label": {"expenses": [{"item": "ملابس", "amount": 60, "category": "تسوق", "when": "أمس"}]}}
+{"text": "أبي أشتري جوال بمية ريال", "label": {"expenses": []}}
+{"text": "موية 9.5 ريال سعودي", "label": {"expenses": [{"item": "موية", "amount": 9.5, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "دفعت ثلاثين برجر الحين", "label": {"expenses": [{"item": "برجر", "amount": 30, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "اشتريت موية ب21 SAR أول أمس", "label": {"expenses": [{"item": "موية", "amount": 21, "category": "بقالة", "when": "قبل أمس"}]}}
+{"text": "دفعت 117 ريال سعودي عشا امس", "label": {"expenses": [{"item": "عشا", "amount": 117, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "البارحة دفعت حق آيس لاتيه 25", "label": {"expenses": [{"item": "آيس لاتيه", "amount": 25, "category": "قهوة", "when": "أمس"}]}}
+{"text": "غسيل السيارة بأربعين ر.س الحين", "label": {"expenses": [{"item": "غسيل السيارة", "amount": 40, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "دفعت ٨٠ ر.س تاكسي", "label": {"expenses": [{"item": "تاكسي", "amount": 80, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "فاتورة الموية ب691 SAR", "label": {"expenses": [{"item": "فاتورة الموية", "amount": 691, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "اشتريت بلايستيشن ب76 ريال البارحة", "label": {"expenses": [{"item": "بلايستيشن", "amount": 76, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "طلع علي موكا ١٨ ر.س", "label": {"expenses": [{"item": "موكا", "amount": 18, "category": "قهوة", "when": "اليوم"}]}}
+{"text": "راحت ١٢ على موكا أمس", "label": {"expenses": [{"item": "موكا", "amount": 12, "category": "قهوة", "when": "أمس"}]}}
+{"text": "دفعت ٣٠٠ ر.س فاتورة النت", "label": {"expenses": [{"item": "فاتورة النت", "amount": 300, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "خويي دفع عني حلاق", "label": {"expenses": []}}
+{"text": "راحت 29 على موقف امس", "label": {"expenses": [{"item": "موقف", "amount": 29, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "عبيت بنزين ب٣٧ ريال أول أمس", "label": {"expenses": [{"item": "بنزين", "amount": 37, "category": "مواصلات", "when": "قبل أمس"}]}}
+{"text": "راحت 438 ريال على بقالة", "label": {"expenses": [{"item": "بقالة", "amount": 438, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "عبيت بنزين ب39 ريال أمس", "label": {"expenses": [{"item": "بنزين", "amount": 39, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "موكا ب14 ريال سعودي أول أمس وبعدين طلع علي رز 32 اليوم", "label": {"expenses": [{"item": "موكا", "amount": 14, "category": "قهوة", "when": "قبل أمس"}, {"item": "رز", "amount": 32, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "ناوي أشتري شنطة ب1434 الأسبوع الجاي", "label": {"expenses": []}}
+{"text": "سجل رز 56 ريال الحين", "label": {"expenses": [{"item": "رز", "amount": 56, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "ركبت أوبر ب80 ريال الحين", "label": {"expenses": [{"item": "أوبر", "amount": 80, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "شماغ ب296 ريال أول أمس و تحليل دم بستين ريال أمس", "label": {"expenses": [{"item": "شماغ", "amount": 296, "category": "تسوق", "when": "قبل أمس"}, {"item": "تحليل دم", "amount": 60, "category": "صحة", "when": "أمس"}]}}
+{"text": "ساعة ١٤١٩ ريال ودفعت ١٣٨ ريال تاكسي امس", "label": {"expenses": [{"item": "ساعة", "amount": 1419, "category": "تسوق", "when": "اليوم"}, {"item": "تاكسي", "amount": 138, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "لو اشتريت طوابع ب192 ريال يكون غالي؟", "label": {"expenses": []}}
+{"text": "سجل بقالة مية وخمسين ريال أول أمس", "label": {"expenses": [{"item": "بقالة", "amount": 150, "category": "بقالة", "when": "قبل أمس"}]}}
+{"text": "كلفني هدية ١٩ اليوم", "label": {"expenses": [{"item": "هدية", "amount": 19, "category": "أخرى", "when": "اليوم"}]}}
+{"text": "بروستد ب25 ريال اليوم", "label": {"expenses": [{"item": "بروستد", "amount": 25, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "دفعت حق كبسة 160 ريال", "label": {"expenses": [{"item": "كبسة", "amount": 160, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "ركبت أوبر ب19 ر.س الحين وبعدين دفعت 22 ريال سعودي اشتراك سبوتيفاي أمس", "label": {"expenses": [{"item": "أوبر", "amount": 19, "category": "مواصلات", "when": "اليوم"}, {"item": "اشتراك سبوتيفاي", "amount": 22, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "طلع علي غسيل السيارة 155 ريال اليوم", "label": {"expenses": [{"item": "غسيل السيارة", "amount": 155, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "خويي دفع عني قهوة", "label": {"expenses": []}}
+{"text": "سجل موية ١٥ ريال البارحة، وحاسبت شنطة ب591 ريال أول أمس", "label": {"expenses": [{"item": "موية", "amount": 15, "category": "بقالة", "when": "أمس"}, {"item": "شنطة", "amount": 591, "category": "تسوق", "when": "قبل أمس"}]}}
+{"text": "سجل تذكرة مترو ٨ ريال سعودي أمس ودفعت 9.5 حليب أمس", "label": {"expenses": [{"item": "تذكرة مترو", "amount": 8, "category": "مواصلات", "when": "أمس"}, {"item": "حليب", "amount": 9.5, "category": "بقالة", "when": "أمس"}]}}
+{"text": "دفعت ٤٧ ريال سعودي غسيل السيارة امس", "label": {"expenses": [{"item": "غسيل السيارة", "amount": 47, "category": "مواصلات", "when": "أمس"}]}}
+{"text": "بيتزا ب138 ر.س اليوم", "label": {"expenses": [{"item": "بيتزا", "amount": 138, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "تقهويت ب29 ر.س قبل أمس", "label": {"expenses": [{"item": "قهوة", "amount": 29, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "عطر ب٤٨٠ ريال أمس و سجل صيدلية 210 SAR قبل أمس", "label": {"expenses": [{"item": "عطر", "amount": 480, "category": "تسوق", "when": "أمس"}, {"item": "صيدلية", "amount": 210, "category": "صحة", "when": "قبل أمس"}]}}
+{"text": "سددت فاتورة الكهرباء 810 ر.س أول أمس، واليوم اشتريت خبز بخمسطعش", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 810, "category": "فواتير", "when": "قبل أمس"}, {"item": "خبز", "amount": 15, "category": "بقالة", "when": "اليوم"}]}}
+{"text": "حاسبت شماغ ب٣٣١ ر.س اليوم", "label": {"expenses": [{"item": "شماغ", "amount": 331, "category": "تسوق", "when": "اليوم"}]}}
+{"text": "تقهويت ب25 ريال سعودي البارحة", "label": {"expenses": [{"item": "قهوة", "amount": 25, "category": "قهوة", "when": "أمس"}]}}
+{"text": "دفعت حق تحليل دم 98 ريال", "label": {"expenses": [{"item": "تحليل دم", "amount": 98, "category": "صحة", "when": "اليوم"}]}}
+{"text": "ركبت أوبر ب٧٢ اليوم", "label": {"expenses": [{"item": "أوبر", "amount": 72, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "راحت 238 ريال سعودي على كشفية امس", "label": {"expenses": [{"item": "كشفية", "amount": 238, "category": "صحة", "when": "أمس"}]}}
+{"text": "راحت 33 ر.س على سينما الحين", "label": {"expenses": [{"item": "سينما", "amount": 33, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "شحنت رصيد بثلاثين أول أمس", "label": {"expenses": [{"item": "شحن رصيد", "amount": 30, "category": "فواتير", "when": "قبل أمس"}]}}
+{"text": "اليوم دفعت حق اشتراك نتفلكس 33 ريال", "label": {"expenses": [{"item": "اشتراك نتفلكس", "amount": 33, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "طلع علي ساعة ١٦٠ ريال أمس و كريم 85 ريال", "label": {"expenses": [{"item": "ساعة", "amount": 160, "category": "تسوق", "when": "أمس"}, {"item": "كريم", "amount": 85, "category": "مواصلات", "when": "اليوم"}]}}
+{"text": "اشتريت سوشي ب205 ريال سعودي قبل أمس", "label": {"expenses": [{"item": "سوشي", "amount": 205, "category": "مطاعم", "when": "قبل أمس"}]}}
+{"text": "أمس دفعت حق كشفية مية ريال", "label": {"expenses": [{"item": "كشفية", "amount": 100, "category": "صحة", "when": "أمس"}]}}
+{"text": "كلفني موية خمسطعش SAR أول أمس", "label": {"expenses": [{"item": "موية", "amount": 15, "category": "بقالة", "when": "قبل أمس"}]}}
+{"text": "فاتورة الكهرباء ب٥٢٢ ريال أول أمس", "label": {"expenses": [{"item": "فاتورة الكهرباء", "amount": 522, "category": "فواتير", "when": "قبل أمس"}]}}
+{"text": "كلفني حليب خمسطعش ر.س أمس و سجل بلايستيشن ٢٣ ريال سعودي امس", "label": {"expenses": [{"item": "حليب", "amount": 15, "category": "بقالة", "when": "أمس"}, {"item": "بلايستيشن", "amount": 23, "category": "ترفيه", "when": "أمس"}]}}
+{"text": "صرفت ١٨٢ ريال سعودي على شحن رصيد أمس", "label": {"expenses": [{"item": "شحن رصيد", "amount": 182, "category": "فواتير", "when": "أمس"}]}}
+{"text": "بكرة بدفع عشرين ريال بلايستيشن", "label": {"expenses": []}}
+{"text": "طلع علي حلاق 23 ريال أول أمس", "label": {"expenses": [{"item": "حلاق", "amount": 23, "category": "أخرى", "when": "قبل أمس"}]}}
+{"text": "اشتريت حليب ب4 ريال أول أمس", "label": {"expenses": [{"item": "حليب", "amount": 4, "category": "بقالة", "when": "قبل أمس"}]}}
+{"text": "أول أمس دفعت حق موية ثلاثين SAR", "label": {"expenses": [{"item": "موية", "amount": 30, "category": "بقالة", "when": "قبل أمس"}]}}
+{"text": "راحت ستين ريال على شماغ البارحة", "label": {"expenses": [{"item": "شماغ", "amount": 60, "category": "تسوق", "when": "أمس"}]}}
+{"text": "دفعت 67.5 ريال حلاق أول أمس و بلايستيشن بثلاثين ر.س", "label": {"expenses": [{"item": "حلاق", "amount": 67.5, "category": "أخرى", "when": "قبل أمس"}, {"item": "بلايستيشن", "amount": 30, "category": "ترفيه", "when": "اليوم"}]}}
+{"text": "فطور ب١٧ ريال البارحة", "label": {"expenses": [{"item": "فطور", "amount": 17, "category": "مطاعم", "when": "أمس"}]}}
+{"text": "تغديت ب١٤٧ ريال اليوم", "label": {"expenses": [{"item": "غدا", "amount": 147, "category": "مطاعم", "when": "اليوم"}]}}
+{"text": "تغديت ب111 البارحة وبعدين دفعت 109 ر.س عشا أول أمس", "label": {"expenses": [{"item": "غدا", "amount": 111, "category": "مطاعم", "when": "أمس"}, {"item": "عشا", "amount": 109, "category": "مطاعم", "when": "قبل أمس"}]}}
+{"text": "اشتريت صيدلية ب٢٥٧ ريال الحين", "label": {"expenses": [{"item": "صيدلية", "amount": 257, "category": "صحة", "when": "اليوم"}]}}
+{"text": "سجل فاتورة الموية ٦٨٤ ريال اليوم", "label": {"expenses": [{"item": "فاتورة الموية", "amount": 684, "category": "فواتير", "when": "اليوم"}]}}
+{"text": "جاني تحويل 1343 ريال من أخوي", "label": {"expenses": []}}
+{"text": "صرفت 23 ر.س على اشتراك سبوتيفاي أول أمس", "label": {"expenses": [{"item": "اشتراك سبوتيفاي", "amount": 23, "category": "ترفيه", "when": "قبل أمس"}]}}
+{"text": "تقهويت ب29 ر.س أول أمس", "label": {"expenses": [{"item": "قهوة", "amount": 29, "category": "قهوة", "when": "قبل أمس"}]}}
+{"text": "كلفني صيدلية ٢٥٢ أول أمس", "label": {"expenses": [{"item": "صيدلية", "amount": 252, "category": "صحة", "when": "قبل أمس"}]}}
+{"text": "كم سعر تغيير زيت؟", "label": {"expenses": []}}
+{"text": "غسيل السيارة بخمسين ريال سعودي اليوم", "label": {"expenses": [{"item": "غسيل السيارة", "amount": 50, "category": "مواصلات", "when": "اليوم"}]}}
